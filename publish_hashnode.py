@@ -7,7 +7,7 @@ import re
 import requests
 import json
 
-GRAPHQL_URL = 'https://api.hashnode.com'
+GRAPHQL_URL = 'https://gql.hashnode.com'
 MUTATION = '''
 mutation($publicationId: String!, $title: String!, $bodyMarkdown: String!, $tags: [String!]) {
   createPublicationPost(input: {
