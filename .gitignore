@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+/tmp/
+node_modules/
+podcasts/pending/*.m4a
+*.m4a

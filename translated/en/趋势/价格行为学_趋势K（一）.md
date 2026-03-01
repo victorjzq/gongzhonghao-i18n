@@ -1,0 +1,19 @@
+# Price Action: Trend Bars (Part 1)
+
+The definition of a trend bar is that the close is relatively far from the open, with the body having a moderate size, measured against the average range of recent bars. A sign of a trend bar's strength is that its body is larger than the median of the past 5 to 10 bars. For bull trend bars, a characteristic of strength is opening at the low and closing at the high. A bull bar whose high or close is above the highs or closes of many prior bars is also a sign of strength.
+
+Every trend bar can be viewed as a breakout. A breakout is one bar or a group of bars that may trigger a measured move or initiate a spike-and-channel trend. If you understand trend bars this way, you will find there is always a possibility of extending into a channel or measured move, but whether it succeeds depends on context. If the background environment is wrong, this breakout may just be a failure. Pullbacks are often breakouts in the opposite direction, misleading traders into thinking the trend is about to reverse. In trends, these counter-direction breakouts or strong opposing bars frequently appear, making people think the trend might be ending. But most bulls will buy into these bear breakouts, betting it is just a pullback.
+
+A trend bar itself is also a breakout. All trend bars are attempting to break out, trying to start a new trend. But most breakouts fail. A trend bar represents market imbalance — it may be a breakout toward a new equilibrium zone. If it travels far enough, it could become a swing trade. For bull trend bars, for the breakout to succeed, the market must have at least a 40% probability of achieving twice the initial risk or reaching the measured move target. But most trend bars cannot initiate a trend of this magnitude, so more of them are failures. Every trend bar is trying to break above the prior high, trying to drive a new trend, but most do not go far. This is precisely why many trend bars ultimately are just failed breakouts. Experienced traders exploit this by counter-trading these breakouts, especially in trading ranges.
+
+In trading ranges, breakouts usually fail; and counter-trend breakouts have an even higher failure rate. These counter-trend breakouts or breakouts without follow-through end up being just pullbacks. Experienced traders will buy in these situations — either buying at the close directly or adding on pullbacks, betting that the market will make a new high or new low within the next few bars.
+
+Inexperienced traders often ignore the trend and only see a bear breakout, thinking it is a new breakout. But this is not the case — it is actually often a "buy the close" opportunity. Especially in counter-trend breakouts, particularly those appearing in microchannels or tight channels, they are very likely just pullbacks, so the expectation should be that the breakout will fail.
+
+If a breakout is truly going to start a trend, it usually does not happen within a tight channel but should emerge from a trading range or two-sided trading area. Breakouts that truly start new trends usually come from trading ranges. They must have strong follow-through, and once strong follow-through appears, it greatly increases the chance of reaching the measured move target or achieving twice the initial risk.
+
+Conversely, breakouts that appear within tight channels are more likely to only produce sideways movement, or just make a new high or new low, rather than starting a new trend. Every trend bar can be viewed as a type of gap — it represents market imbalance. Similarly, every gap can also be viewed as a trend bar.
+
+A trend bar is both an extreme move and a vacuum effect.
+
+Finally, trend bars are signals of buying and selling pressure. Buying and selling pressure is cumulative. For example, in a trading range or during a bull trend, as selling pressure gradually accumulates, it increases the probability of a bear trend emerging.

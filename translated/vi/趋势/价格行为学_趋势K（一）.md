@@ -1,0 +1,19 @@
+# Hành động giá: Nến xu hướng (Phần 1)
+
+Định nghĩa nến xu hướng (trend bar) là giá đóng cửa tương đối xa giá mở cửa, với thân nến (body) có kích thước vừa phải, đo bằng biên độ trung bình các nến gần đây. Dấu hiệu sức mạnh nến xu hướng là thân nến lớn hơn trung vị 5 đến 10 nến trước. Đối với nến xu hướng tăng (bull trend bar), đặc điểm sức mạnh là mở tại đáy và đóng tại đỉnh. Nến tăng có đỉnh hoặc giá đóng cửa trên đỉnh hoặc giá đóng cửa nhiều nến trước cũng là dấu hiệu sức mạnh.
+
+Mọi nến xu hướng có thể được coi là phá vỡ (breakout). Phá vỡ là một nến hoặc nhóm nến có thể kích hoạt di chuyển đo lường (measured move) hoặc khởi đầu xu hướng đột biến-và-kênh (spike-and-channel). Nếu bạn hiểu nến xu hướng theo cách này, bạn sẽ thấy luôn có khả năng mở rộng thành kênh (channel) hoặc di chuyển đo lường, nhưng liệu có thành công phụ thuộc vào bối cảnh. Nếu môi trường nền sai, phá vỡ này có thể chỉ là thất bại. Hồi lại (pullback) thường là phá vỡ theo hướng ngược, đánh lừa trader nghĩ xu hướng sắp đảo chiều (reversal). Trong xu hướng, các phá vỡ hoặc nến đối lập mạnh này thường xuất hiện, khiến mọi người nghĩ xu hướng có thể đang kết thúc. Nhưng hầu hết phe mua (bull) sẽ mua vào các phá vỡ giảm này, đặt cược nó chỉ là hồi lại.
+
+Bản thân nến xu hướng cũng là phá vỡ. Tất cả nến xu hướng đang cố phá vỡ, cố bắt đầu xu hướng mới. Nhưng hầu hết phá vỡ thất bại. Nến xu hướng đại diện cho mất cân bằng thị trường — nó có thể là phá vỡ hướng đến vùng cân bằng mới. Nếu nó đi đủ xa, nó có thể trở thành giao dịch swing (swing trade). Đối với nến xu hướng tăng, để phá vỡ thành công, thị trường phải có ít nhất xác suất 40% đạt hai lần rủi ro ban đầu hoặc đạt mục tiêu di chuyển đo lường. Nhưng hầu hết nến xu hướng không thể khởi đầu xu hướng có biên độ này, vì vậy nhiều trong số chúng là thất bại. Mọi nến xu hướng đang cố phá vỡ trên đỉnh trước, cố đẩy xu hướng mới, nhưng hầu hết không đi xa. Đây chính là lý do nhiều nến xu hướng cuối cùng chỉ là phá vỡ thất bại. Trader có kinh nghiệm khai thác điều này bằng cách giao dịch ngược các phá vỡ này, đặc biệt trong vùng giao dịch (trading range).
+
+Trong vùng giao dịch, phá vỡ thường thất bại; và phá vỡ ngược xu hướng (counter-trend) có tỷ lệ thất bại còn cao hơn. Các phá vỡ ngược xu hướng hoặc phá vỡ không có tiếp nối kết thúc chỉ là hồi lại. Trader có kinh nghiệm sẽ mua trong các tình huống này — hoặc mua tại giá đóng cửa trực tiếp hoặc thêm khi hồi lại, đặt cược thị trường sẽ tạo đỉnh mới hoặc đáy mới trong vài nến tiếp theo.
+
+Trader thiếu kinh nghiệm thường bỏ qua xu hướng và chỉ thấy phá vỡ giảm, nghĩ nó là phá vỡ mới. Nhưng thực ra nó thường là cơ hội "mua tại giá đóng cửa." Đặc biệt trong phá vỡ ngược xu hướng, đặc biệt những cái xuất hiện trong kênh vi mô (microchannel) hoặc kênh hẹp (tight channel), chúng rất có thể chỉ là hồi lại, vì vậy kỳ vọng nên là phá vỡ sẽ thất bại.
+
+Nếu phá vỡ thực sự sẽ bắt đầu xu hướng, nó thường không xảy ra trong kênh hẹp mà nên xuất hiện từ vùng giao dịch hoặc vùng giao dịch hai chiều. Phá vỡ thực sự bắt đầu xu hướng mới thường đến từ vùng giao dịch. Chúng phải có tiếp nối mạnh, và một khi tiếp nối mạnh xuất hiện, nó tăng đáng kể cơ hội đạt mục tiêu di chuyển đo lường hoặc đạt hai lần rủi ro ban đầu.
+
+Ngược lại, phá vỡ xuất hiện trong kênh hẹp có nhiều khả năng chỉ tạo đi ngang, hoặc chỉ tạo đỉnh mới hoặc đáy mới, thay vì bắt đầu xu hướng mới. Mọi nến xu hướng có thể được coi là một dạng gap (khoảng trống) — nó đại diện cho mất cân bằng thị trường. Tương tự, mọi gap cũng có thể được coi là nến xu hướng.
+
+Nến xu hướng vừa là đợt di chuyển cực đoan vừa là hiệu ứng chân không.
+
+Cuối cùng, nến xu hướng là tín hiệu áp lực mua và bán. Áp lực mua và bán là tích lũy. Ví dụ, trong vùng giao dịch hoặc trong xu hướng tăng, khi áp lực bán dần tích lũy, nó tăng xác suất xu hướng giảm (bear trend) xuất hiện.
