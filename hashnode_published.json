@@ -1,0 +1,2056 @@
+{
+  "translated/en/AI与学习/AI_Brooks_交易体系详细执行指南.md": {
+    "id": "69a4700c526b1093f21e9e30",
+    "url": "https://victorjia.hashnode.dev/al-brooks-trading-system-detailed-execution-guide",
+    "title": "Al Brooks Trading System Detailed Execution Guide",
+    "published_at": "2026-03-01 23:57:48"
+  },
+  "translated/en/AI与学习/学习AI系列_创作.md": {
+    "id": "69a47012526b1093f21e9e32",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-creation",
+    "title": "Learning AI Series: Creation",
+    "published_at": "2026-03-01 23:57:54"
+  },
+  "translated/en/AI与学习/学习AI系列_如何学习.md": {
+    "id": "69a47018526b1093f21e9e34",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-how-to-learn",
+    "title": "Learning AI Series: How to Learn",
+    "published_at": "2026-03-01 23:58:00"
+  },
+  "translated/en/AI与学习/学习AI系列_如何解决矛盾.md": {
+    "id": "69a4701f526b1093f21e9e36",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-how-to-resolve-contradictions",
+    "title": "Learning AI Series: How to Resolve Contradictions",
+    "published_at": "2026-03-01 23:58:07"
+  },
+  "translated/en/AI与学习/学习AI系列_学习Dan_Koe.md": {
+    "id": "69a47025526b1093f21e9e38",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-learning-from-dan-koe",
+    "title": "Learning AI Series: Learning from Dan Koe",
+    "published_at": "2026-03-01 23:58:13"
+  },
+  "translated/en/AI与学习/学习AI系列_沙里淘金.md": {
+    "id": "69a4702b526b1093f21e9e3a",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-panning-for-gold",
+    "title": "Learning AI Series: Panning for Gold",
+    "published_at": "2026-03-01 23:58:19"
+  },
+  "translated/en/AI与学习/学习AI系列_问题的遗忘.md": {
+    "id": "69a47031526b1093f21e9e3c",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-the-forgetting-of-questions",
+    "title": "Learning AI Series: The Forgetting of Questions",
+    "published_at": "2026-03-01 23:58:25"
+  },
+  "translated/en/AI与学习/学习AI系列_高手.md": {
+    "id": "69a47037526b1093f21e9e3e",
+    "url": "https://victorjia.hashnode.dev/learning-ai-series-the-expert",
+    "title": "Learning AI Series: The Expert",
+    "published_at": "2026-03-01 23:58:31"
+  },
+  "translated/en/K线与信号/K线交易深度指南_从信号解读到特殊行情应对.md": {
+    "id": "69a4703d526b1093f21e9e40",
+    "url": "https://victorjia.hashnode.dev/in-depth-guide-to-barcandlestick-trading-from-signal-bar-interpretation-to-handling-special-market-conditions",
+    "title": "In-Depth Guide to Bar/Candlestick Trading: From Signal Bar Interpretation to Handling Special Market Conditions",
+    "published_at": "2026-03-01 23:58:37"
+  },
+  "translated/en/K线与信号/价格行为学_Counting_Legs.md": {
+    "id": "69a47043526b1093f21e9e42",
+    "url": "https://victorjia.hashnode.dev/price-action-counting-legs",
+    "title": "Price Action: Counting Legs",
+    "published_at": "2026-03-01 23:58:43"
+  },
+  "translated/en/K线与信号/价格行为学_一个明显的信号.md": {
+    "id": "69a4704a526b1093f21e9e44",
+    "url": "https://victorjia.hashnode.dev/price-action-an-obvious-signal",
+    "title": "Price Action: An Obvious Signal",
+    "published_at": "2026-03-01 23:58:50"
+  },
+  "translated/en/K线与信号/价格行为学_买盘压力.md": {
+    "id": "69a47050526b1093f21e9e46",
+    "url": "https://victorjia.hashnode.dev/price-action-buying-pressure",
+    "title": "Price Action: Buying Pressure",
+    "published_at": "2026-03-01 23:58:56"
+  },
+  "translated/en/K线与信号/价格行为学_信号K与背景关系.md": {
+    "id": "69a47056526b1093f21e9e48",
+    "url": "https://victorjia.hashnode.dev/price-action-the-relationship-between-signal-bars-and-context",
+    "title": "Price Action: The Relationship Between Signal Bars and Context",
+    "published_at": "2026-03-01 23:59:02"
+  },
+  "translated/en/K线与信号/价格行为学_十字星.md": {
+    "id": "69a4705caa72e7ba85e85434",
+    "url": "https://victorjia.hashnode.dev/price-action-doji",
+    "title": "Price Action: Doji",
+    "published_at": "2026-03-01 23:59:08"
+  },
+  "translated/en/K线与信号/价格行为学_如何理解形态分析.md": {
+    "id": "69a47062aa72e7ba85e85436",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-pattern-analysis",
+    "title": "Price Action: How to Understand Pattern Analysis",
+    "published_at": "2026-03-01 23:59:14"
+  },
+  "translated/en/K线与信号/价格行为学_如何理解形态的衍化.md": {
+    "id": "69a47068aa72e7ba85e85438",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-the-evolution-of-setups",
+    "title": "Price Action: How to Understand the Evolution of Setups",
+    "published_at": "2026-03-01 23:59:20"
+  },
+  "translated/en/K线与信号/价格行为学_市场的分型.md": {
+    "id": "69a4706e526b1093f21e9e4a",
+    "url": "https://victorjia.hashnode.dev/price-action-the-fractal-nature-of-the-market",
+    "title": "Price Action: The Fractal Nature of the Market",
+    "published_at": "2026-03-01 23:59:26"
+  },
+  "translated/en/K线与信号/价格行为学_数K线的要点.md": {
+    "id": "69a47074526b1093f21e9e4c",
+    "url": "https://victorjia.hashnode.dev/price-action-key-points-of-bar-counting",
+    "title": "Price Action: Key Points of Bar Counting",
+    "published_at": "2026-03-01 23:59:32"
+  },
+  "translated/en/K线与信号/精准交易指南_结构_信号与仓位管理.md": {
+    "id": "69a4707aaa72e7ba85e8543a",
+    "url": "https://victorjia.hashnode.dev/precision-trading-guide-structure-signals-and-position-size-management",
+    "title": "Precision Trading Guide: Structure, Signals, and Position Size Management",
+    "published_at": "2026-03-01 23:59:38"
+  },
+  "translated/en/交易书籍/交易书籍系列_01_以交易为生_.md": {
+    "id": "69a47080aa72e7ba85e8543c",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-01-trading-for-a-living",
+    "title": "Trading Book Series: 01 \"Trading for a Living\"",
+    "published_at": "2026-03-01 23:59:44"
+  },
+  "translated/en/交易书籍/交易书籍系列_02_股票作手回忆录_.md": {
+    "id": "69a470874738a1b246124fb0",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-02-reminiscences-of-a-stock-operator",
+    "title": "Trading Book Series: 02 \"Reminiscences of a Stock Operator\"",
+    "published_at": "2026-03-01 23:59:51"
+  },
+  "translated/en/交易书籍/交易书籍系列_03_股市趋势技术分析_.md": {
+    "id": "69a4708d526b1093f21e9e4e",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-03-technical-analysis-of-stock-trends",
+    "title": "Trading Book Series: 03 \"Technical Analysis of Stock Trends\"",
+    "published_at": "2026-03-01 23:59:57"
+  },
+  "translated/en/交易书籍/交易书籍系列_04_专业投机原理_.md": {
+    "id": "69a47093526b1093f21e9e50",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-04-principles-of-professional-speculation",
+    "title": "Trading Book Series: 04 \"Principles of Professional Speculation\"",
+    "published_at": "2026-03-02 00:00:03"
+  },
+  "translated/en/交易书籍/交易书籍系列_05_交易心理分析_.md": {
+    "id": "69a4709b4738a1b246124fb2",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-05-trading-in-the-zone",
+    "title": "Trading Book Series: 05 \"Trading in the Zone\"",
+    "published_at": "2026-03-02 00:00:11"
+  },
+  "translated/en/交易书籍/交易书籍系列_06_纪律严明的交易者_.md": {
+    "id": "69a470a24738a1b246124fb4",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-06-the-disciplined-trader",
+    "title": "Trading Book Series: 06 \"The Disciplined Trader\"",
+    "published_at": "2026-03-02 00:00:18"
+  },
+  "translated/en/交易书籍/交易书籍系列_07_克罗谈期货交易策略_.md": {
+    "id": "69a470a8526b1093f21e9e57",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-07-kroll-on-futures-trading-strategy",
+    "title": "Trading Book Series: 07 \"Kroll on Futures Trading Strategy\"",
+    "published_at": "2026-03-02 00:00:24"
+  },
+  "translated/en/交易书籍/交易书籍系列_08_提升交易绩效_.md": {
+    "id": "69a470ae526b1093f21e9e59",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-08-enhancing-trader-performance",
+    "title": "Trading Book Series: 08 \"Enhancing Trader Performance\"",
+    "published_at": "2026-03-02 00:00:30"
+  },
+  "translated/en/交易书籍/交易书籍系列_09_技术分析的艺术与科学_.md": {
+    "id": "69a470b4526b1093f21e9e5b",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-09-the-art-and-science-of-technical-analysis",
+    "title": "Trading Book Series: 09 \"The Art and Science of Technical Analysis\"",
+    "published_at": "2026-03-02 00:00:36"
+  },
+  "translated/en/交易书籍/交易书籍系列_10_每日交易教练_.md": {
+    "id": "69a470ba4738a1b246124fb6",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-10-the-daily-trading-coach",
+    "title": "Trading Book Series: 10 \"The Daily Trading Coach\"",
+    "published_at": "2026-03-02 00:00:42"
+  },
+  "translated/en/交易书籍/交易书籍系列_11_算法交易_制胜策略与原理_.md": {
+    "id": "69a470c04738a1b246124fb8",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-11-algorithmic-trading-winning-strategies-and-their-rationale",
+    "title": "Trading Book Series: 11 \"Algorithmic Trading: Winning Strategies and Their Rationale\"",
+    "published_at": "2026-03-02 00:00:48"
+  },
+  "translated/en/交易书籍/交易书籍系列_12_新金融怪杰_.md": {
+    "id": "69a470c64738a1b246124fba",
+    "url": "https://victorjia.hashnode.dev/trading-book-series-12-the-new-market-wizards",
+    "title": "Trading Book Series: 12 \"The New Market Wizards\"",
+    "published_at": "2026-03-02 00:00:55"
+  },
+  "translated/en/交易区间/价格行为_如何理解交易区间（九）.md": {
+    "id": "69a470cdaa72e7ba85e8544d",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-9",
+    "title": "Price Action: How to Understand Trading Ranges (Part 9)",
+    "published_at": "2026-03-02 00:01:01"
+  },
+  "translated/en/交易区间/价格行为_如何理解交易区间（八）.md": {
+    "id": "69a470d3526b1093f21e9e5d",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-8",
+    "title": "Price Action: How to Understand Trading Ranges (Part 8)",
+    "published_at": "2026-03-02 00:01:07"
+  },
+  "translated/en/交易区间/价格行为_如何理解交易区间（十）.md": {
+    "id": "69a470d9526b1093f21e9e5f",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-10",
+    "title": "Price Action: How to Understand Trading Ranges (Part 10)",
+    "published_at": "2026-03-02 00:01:13"
+  },
+  "translated/en/交易区间/价格行为学_交易区间震荡区（一）.md": {
+    "id": "69a470df526b1093f21e9e61",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-part-1",
+    "title": "Price Action: Trading Range (Part 1)",
+    "published_at": "2026-03-02 00:01:19"
+  },
+  "translated/en/交易区间/价格行为学_交易区间震荡区（二）.md": {
+    "id": "69a470e5526b1093f21e9e63",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-part-2",
+    "title": "Price Action: Trading Range (Part 2)",
+    "published_at": "2026-03-02 00:01:25"
+  },
+  "translated/en/交易区间/价格行为学_回调与震荡.md": {
+    "id": "69a470eb4738a1b246124fbe",
+    "url": "https://victorjia.hashnode.dev/price-action-pullbacks-and-trading-ranges",
+    "title": "Price Action: Pullbacks and Trading Ranges",
+    "published_at": "2026-03-02 00:01:31"
+  },
+  "translated/en/交易区间/价格行为学_如何交易_由突破到震荡的完整递进.md": {
+    "id": "69a470f14738a1b246124fc0",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-trade-the-complete-progression-from-breakout-to-trading-range",
+    "title": "Price Action: How to Trade — The Complete Progression from Breakout to Trading Range",
+    "published_at": "2026-03-02 00:01:37"
+  },
+  "translated/en/交易区间/价格行为学_如何判断震荡区间将向哪边突破.md": {
+    "id": "69a470f7526b1093f21e9e65",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-determine-which-direction-a-trading-range-will-break-out",
+    "title": "Price Action: How to Determine Which Direction a Trading Range Will Break Out",
+    "published_at": "2026-03-02 00:01:43"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间K线.md": {
+    "id": "69a470fd526b1093f21e9e67",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-range-bars",
+    "title": "Price Action: How to Understand Trading Range Bars",
+    "published_at": "2026-03-02 00:01:49"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（一）.md": {
+    "id": "69a471044738a1b246124fc2",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-1",
+    "title": "Price Action: How to Understand Trading Ranges (Part 1)",
+    "published_at": "2026-03-02 00:01:56"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（七）.md": {
+    "id": "69a4710a526b1093f21e9e69",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-7",
+    "title": "Price Action: How to Understand Trading Ranges (Part 7)",
+    "published_at": "2026-03-02 00:02:02"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（三）.md": {
+    "id": "69a47110526b1093f21e9e6b",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-3",
+    "title": "Price Action: How to Understand Trading Ranges (Part 3)",
+    "published_at": "2026-03-02 00:02:08"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（二）.md": {
+    "id": "69a471164738a1b246124fc4",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-2",
+    "title": "Price Action: How to Understand Trading Ranges (Part 2)",
+    "published_at": "2026-03-02 00:02:14"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（五）.md": {
+    "id": "69a4711c526b1093f21e9e6d",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-5",
+    "title": "Price Action: How to Understand Trading Ranges (Part 5)",
+    "published_at": "2026-03-02 00:02:20"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（六）.md": {
+    "id": "69a471224738a1b246124fc6",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-6",
+    "title": "Price Action: How to Understand Trading Ranges (Part 6)",
+    "published_at": "2026-03-02 00:02:26"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（十一）.md": {
+    "id": "69a47128526b1093f21e9e6f",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-11",
+    "title": "Price Action: How to Understand Trading Ranges (Part 11)",
+    "published_at": "2026-03-02 00:02:32"
+  },
+  "translated/en/交易区间/价格行为学_如何理解交易区间（四）.md": {
+    "id": "69a4712e526b1093f21e9e71",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges-part-4",
+    "title": "Price Action: How to Understand Trading Ranges (Part 4)",
+    "published_at": "2026-03-02 00:02:38"
+  },
+  "translated/en/交易区间/价格行为学_如何理解震荡区.md": {
+    "id": "69a47134526b1093f21e9e73",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-ranges",
+    "title": "Price Action: How to Understand Trading Ranges",
+    "published_at": "2026-03-02 00:02:44"
+  },
+  "translated/en/交易区间/价格行为学_如何识别震荡区间.md": {
+    "id": "69a4713a526b1093f21e9e75",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-identify-trading-ranges",
+    "title": "Price Action: How to Identify Trading Ranges",
+    "published_at": "2026-03-02 00:02:50"
+  },
+  "translated/en/交易区间/价格行为学_窄交易区间和常见K线组合形态交易方法.md": {
+    "id": "69a47140526b1093f21e9e77",
+    "url": "https://victorjia.hashnode.dev/price-action-tight-trading-range-and-common-bar-pattern-trading-methods",
+    "title": "Price Action: Tight Trading Range and Common Bar Pattern Trading Methods",
+    "published_at": "2026-03-02 00:02:57"
+  },
+  "translated/en/交易区间/价格行为学_震荡行情交易方法（一）.md": {
+    "id": "69a47146aa72e7ba85e8544f",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-methods-part-1",
+    "title": "Price Action: Trading Range Methods (Part 1)",
+    "published_at": "2026-03-02 00:03:03"
+  },
+  "translated/en/交易区间/价格行为学_震荡行情交易方法（三）.md": {
+    "id": "69a4714c4738a1b246124fc8",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-methods-part-3",
+    "title": "Price Action: Trading Range Methods (Part 3)",
+    "published_at": "2026-03-02 00:03:09"
+  },
+  "translated/en/交易区间/价格行为学_震荡行情交易方法（二）.md": {
+    "id": "69a471534738a1b246124fcc",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-methods-part-2",
+    "title": "Price Action: Trading Range Methods (Part 2)",
+    "published_at": "2026-03-02 00:03:15"
+  },
+  "translated/en/交易区间/价格行为学_震荡行情交易方法（五）.md": {
+    "id": "69a471584738a1b246124fce",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-methods-part-5",
+    "title": "Price Action: Trading Range Methods (Part 5)",
+    "published_at": "2026-03-02 00:03:20"
+  },
+  "translated/en/交易区间/价格行为学_震荡行情交易方法（四）.md": {
+    "id": "69a4715e526b1093f21e9e79",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-range-methods-part-4",
+    "title": "Price Action: Trading Range Methods (Part 4)",
+    "published_at": "2026-03-02 00:03:26"
+  },
+  "translated/en/交易原则/价格行为学_二元决策.md": {
+    "id": "69a47164526b1093f21e9e7b",
+    "url": "https://victorjia.hashnode.dev/price-action-binary-decisions",
+    "title": "Price Action: Binary Decisions",
+    "published_at": "2026-03-02 00:03:32"
+  },
+  "translated/en/交易原则/价格行为学_交易考量多个因素.md": {
+    "id": "69a4716a526b1093f21e9e7d",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-requires-considering-multiple-factors",
+    "title": "Price Action: Trading Requires Considering Multiple Factors",
+    "published_at": "2026-03-02 00:03:38"
+  },
+  "translated/en/交易原则/价格行为学_交易者方程式与概率（一）.md": {
+    "id": "69a471704738a1b246124fd0",
+    "url": "https://victorjia.hashnode.dev/price-action-the-traders-equation-and-probability-part-1",
+    "title": "Price Action: The Trader's Equation and Probability (Part 1)",
+    "published_at": "2026-03-02 00:03:44"
+  },
+  "translated/en/交易原则/价格行为学_交易者方程式与概率（三）.md": {
+    "id": "69a471764738a1b246124fd2",
+    "url": "https://victorjia.hashnode.dev/price-action-the-traders-equation-and-probability-part-3",
+    "title": "Price Action: The Trader's Equation and Probability (Part 3)",
+    "published_at": "2026-03-02 00:03:50"
+  },
+  "translated/en/交易原则/价格行为学_交易者方程式与概率（二）.md": {
+    "id": "69a4717c4738a1b246124fd4",
+    "url": "https://victorjia.hashnode.dev/price-action-the-traders-equation-and-probability-part-2",
+    "title": "Price Action: The Trader's Equation and Probability (Part 2)",
+    "published_at": "2026-03-02 00:03:56"
+  },
+  "translated/en/交易原则/价格行为学_什么是跟随市场的交易方法.md": {
+    "id": "69a471824738a1b246124fd6",
+    "url": "https://victorjia.hashnode.dev/price-action-what-is-a-market-following-trading-approach",
+    "title": "Price Action: What Is a Market-Following Trading Approach",
+    "published_at": "2026-03-02 00:04:02"
+  },
+  "translated/en/交易原则/价格行为学_价格行为学_概念笔记（3）.md": {
+    "id": "69a471884738a1b246124fd8",
+    "url": "https://victorjia.hashnode.dev/price-action-concept-notes-3",
+    "title": "Price Action: Concept Notes (3)",
+    "published_at": "2026-03-02 00:04:08"
+  },
+  "translated/en/交易原则/价格行为学_做有道理的交易.md": {
+    "id": "69a47206526b1093f21e9e7f",
+    "url": "https://victorjia.hashnode.dev/price-action-make-trades-that-make-sense",
+    "title": "Price Action: Make Trades That Make Sense",
+    "published_at": "2026-03-02 00:06:14"
+  },
+  "translated/en/交易原则/价格行为学_好的交易规则.md": {
+    "id": "69a4720caa72e7ba85e85451",
+    "url": "https://victorjia.hashnode.dev/price-action-good-trading-rules",
+    "title": "Price Action: Good Trading Rules",
+    "published_at": "2026-03-02 00:06:20"
+  },
+  "translated/en/交易原则/价格行为学_如何交易（上）.md": {
+    "id": "69a47212aa72e7ba85e85453",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-trade-part-1",
+    "title": "Price Action: How to Trade (Part 1)",
+    "published_at": "2026-03-02 00:06:26"
+  },
+  "translated/en/交易原则/价格行为学_如何交易（下）.md": {
+    "id": "69a47218aa72e7ba85e85455",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-trade-part-2",
+    "title": "Price Action: How to Trade (Part 2)",
+    "published_at": "2026-03-02 00:06:32"
+  },
+  "translated/en/交易原则/价格行为学_如何理解交易概率.md": {
+    "id": "69a4721e4738a1b246124fdc",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-probability",
+    "title": "Price Action: How to Understand Trading Probability",
+    "published_at": "2026-03-02 00:06:38"
+  },
+  "translated/en/交易原则/价格行为学_尽可能机械化_减少变量_.md": {
+    "id": "69a472244738a1b246124fde",
+    "url": "https://victorjia.hashnode.dev/price-action-be-as-mechanical-as-possible-reduce-variables",
+    "title": "Price Action: Be As Mechanical As Possible, Reduce Variables",
+    "published_at": "2026-03-02 00:06:44"
+  },
+  "translated/en/交易原则/价格行为学_市场控制权.md": {
+    "id": "69a4722aaa72e7ba85e85457",
+    "url": "https://victorjia.hashnode.dev/price-action-market-control",
+    "title": "Price Action: Market Control",
+    "published_at": "2026-03-02 00:06:50"
+  },
+  "translated/en/交易原则/价格行为学_机械化交易.md": {
+    "id": "69a472304738a1b246124fe0",
+    "url": "https://victorjia.hashnode.dev/price-action-mechanical-trading",
+    "title": "Price Action: Mechanical Trading",
+    "published_at": "2026-03-02 00:06:56"
+  },
+  "translated/en/交易原则/价格行为学_校准预期.md": {
+    "id": "69a47237526b1093f21e9e81",
+    "url": "https://victorjia.hashnode.dev/price-action-calibrating-expectations",
+    "title": "Price Action: Calibrating Expectations",
+    "published_at": "2026-03-02 00:07:03"
+  },
+  "translated/en/交易原则/价格行为学_概念笔记（1）.md": {
+    "id": "69a4723d4738a1b246124fe2",
+    "url": "https://victorjia.hashnode.dev/price-action-concept-notes-1",
+    "title": "Price Action: Concept Notes (1)",
+    "published_at": "2026-03-02 00:07:09"
+  },
+  "translated/en/交易原则/价格行为学_概念笔记（2）.md": {
+    "id": "69a472434738a1b246124fe4",
+    "url": "https://victorjia.hashnode.dev/price-action-concept-notes-2",
+    "title": "Price Action: Concept Notes (2)",
+    "published_at": "2026-03-02 00:07:15"
+  },
+  "translated/en/交易原则/价格行为学_概念笔记（4）.md": {
+    "id": "69a47249aa72e7ba85e85459",
+    "url": "https://victorjia.hashnode.dev/price-action-concept-notes-4",
+    "title": "Price Action: Concept Notes (4)",
+    "published_at": "2026-03-02 00:07:21"
+  },
+  "translated/en/交易原则/价格行为学_盈亏比.md": {
+    "id": "69a4724f4738a1b246124fe6",
+    "url": "https://victorjia.hashnode.dev/price-action-riskreward-ratio",
+    "title": "Price Action: Risk/Reward Ratio",
+    "published_at": "2026-03-02 00:07:27"
+  },
+  "translated/en/交易原则/价格行为学_站在概率大的一方.md": {
+    "id": "69a47256526b1093f21e9e83",
+    "url": "https://victorjia.hashnode.dev/price-action-stand-on-the-side-with-higher-probability",
+    "title": "Price Action: Stand on the Side with Higher Probability",
+    "published_at": "2026-03-02 00:07:34"
+  },
+  "translated/en/交易原则/价格行为学_简单与时间杠杆.md": {
+    "id": "69a4725c526b1093f21e9e85",
+    "url": "https://victorjia.hashnode.dev/price-action-simplicity-and-time-leverage",
+    "title": "Price Action: Simplicity and Time Leverage",
+    "published_at": "2026-03-02 00:07:40"
+  },
+  "translated/en/交易原则/价格行为学_识别市场状态_站在概率更高的一边.md": {
+    "id": "69a47262526b1093f21e9e87",
+    "url": "https://victorjia.hashnode.dev/price-action-identify-market-state-stand-on-the-higher-probability-side",
+    "title": "Price Action: Identify Market State, Stand on the Higher Probability Side",
+    "published_at": "2026-03-02 00:07:46"
+  },
+  "translated/en/交易原则/价格行为学_谁在赚钱_谁就主导市场.md": {
+    "id": "69a47268526b1093f21e9e89",
+    "url": "https://victorjia.hashnode.dev/price-action-whoever-is-making-money-dominates-the-market",
+    "title": "Price Action: Whoever Is Making Money Dominates the Market",
+    "published_at": "2026-03-02 00:07:52"
+  },
+  "translated/en/交易原则/价格行为学_这就是价格行为学交易.md": {
+    "id": "69a4726e4738a1b246124fea",
+    "url": "https://victorjia.hashnode.dev/price-action-this-is-price-action-trading",
+    "title": "Price Action: This Is Price Action Trading",
+    "published_at": "2026-03-02 00:07:58"
+  },
+  "translated/en/交易原则/借助_故事_型标的_提升交易的胜率与盈亏比.md": {
+    "id": "69a47274526b1093f21e9e8b",
+    "url": "https://victorjia.hashnode.dev/leveraging-story-stocks-to-improve-win-rate-and-riskreward-ratio",
+    "title": "Leveraging \"Story\" Stocks to Improve Win Rate and Risk/Reward Ratio",
+    "published_at": "2026-03-02 00:08:04"
+  },
+  "translated/en/交易原则/均线_减仓_二元_烧鹅.md": {
+    "id": "69a4727a4738a1b246124fec",
+    "url": "https://victorjia.hashnode.dev/moving-average-reducing-positions-binary-thinking-roast-goose",
+    "title": "Moving Average, Reducing Positions, Binary Thinking, Roast Goose",
+    "published_at": "2026-03-02 00:08:10"
+  },
+  "translated/en/交易原则/抓住高概率交易机会_顺势而为.md": {
+    "id": "69a472814738a1b246124fee",
+    "url": "https://victorjia.hashnode.dev/seize-high-probability-trading-opportunities-trade-with-the-trend",
+    "title": "Seize High-Probability Trading Opportunities, Trade with the Trend",
+    "published_at": "2026-03-02 00:08:17"
+  },
+  "translated/en/交易原则/永远假设你有_40__的概率是错的.md": {
+    "id": "69a47287aa72e7ba85e8545b",
+    "url": "https://victorjia.hashnode.dev/always-assume-you-have-a-40-chance-of-being-wrong",
+    "title": "Always Assume You Have a 40% Chance of Being Wrong",
+    "published_at": "2026-03-02 00:08:23"
+  },
+  "translated/en/交易原则/谁在赚钱就模仿谁.md": {
+    "id": "69a4728caa72e7ba85e8545d",
+    "url": "https://victorjia.hashnode.dev/imitate-whoever-is-making-money",
+    "title": "Imitate Whoever Is Making Money",
+    "published_at": "2026-03-02 00:08:29"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（10）.md": {
+    "id": "69a47292aa72e7ba85e8545f",
+    "url": "https://victorjia.hashnode.dev/how-people-go-from-not-knowing-to-knowing",
+    "title": "How People Go from Not Knowing to Knowing",
+    "published_at": "2026-03-02 00:08:34"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（11）.md": {
+    "id": "69a47298aa72e7ba85e85461",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-11",
+    "title": "Price Action Trading System Manual (11)",
+    "published_at": "2026-03-02 00:08:40"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（12）.md": {
+    "id": "69a4729eaa72e7ba85e85463",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-12",
+    "title": "Price Action Trading System Manual (12)",
+    "published_at": "2026-03-02 00:08:47"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（13）.md": {
+    "id": "69a472a5aa72e7ba85e85465",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-13",
+    "title": "Price Action Trading System Manual (13)",
+    "published_at": "2026-03-02 00:08:53"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（14）.md": {
+    "id": "69a472abaa72e7ba85e85467",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-14",
+    "title": "Price Action Trading System Manual (14)",
+    "published_at": "2026-03-02 00:08:59"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（15）.md": {
+    "id": "69a472b1aa72e7ba85e85469",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-15",
+    "title": "Price Action Trading System Manual (15)",
+    "published_at": "2026-03-02 00:09:05"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（16）.md": {
+    "id": "69a472b7526b1093f21e9e91",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-16",
+    "title": "Price Action Trading System Manual (16)",
+    "published_at": "2026-03-02 00:09:11"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（17）.md": {
+    "id": "69a472bd526b1093f21e9e93",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-17",
+    "title": "Price Action Trading System Manual (17)",
+    "published_at": "2026-03-02 00:09:17"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（1）.md": {
+    "id": "69a472c3526b1093f21e9e95",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-1",
+    "title": "Price Action Trading System Manual (1)",
+    "published_at": "2026-03-02 00:09:23"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（2）.md": {
+    "id": "69a472c9526b1093f21e9e97",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-2",
+    "title": "Price Action Trading System Manual (2)",
+    "published_at": "2026-03-02 00:09:29"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（3）.md": {
+    "id": "69a472cf526b1093f21e9e99",
+    "url": "https://victorjia.hashnode.dev/the-only-standard-for-successful-learning-can-you-reproduce-the-authors-reasoning-sequence",
+    "title": "The Only Standard for Successful Learning = Can You Reproduce the Author's Reasoning Sequence",
+    "published_at": "2026-03-02 00:09:35"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（4）.md": {
+    "id": "69a472d5526b1093f21e9e9b",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-4",
+    "title": "Price Action Trading System Manual (4)",
+    "published_at": "2026-03-02 00:09:41"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（5）.md": {
+    "id": "69a472db526b1093f21e9e9d",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-5",
+    "title": "Price Action Trading System Manual (5)",
+    "published_at": "2026-03-02 00:09:47"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（6）.md": {
+    "id": "69a472e1aa72e7ba85e8546b",
+    "url": "https://victorjia.hashnode.dev/bar-signal-system-setup-bar-signal-bar-entry-bar-follow-through-bar",
+    "title": "Bar Signal System: Setup Bar → Signal Bar → Entry Bar → Follow-through Bar",
+    "published_at": "2026-03-02 00:09:53"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（7）.md": {
+    "id": "69a472e8aa72e7ba85e8546d",
+    "url": "https://victorjia.hashnode.dev/what-to-do-when-you-see-an-unusually-large-bar",
+    "title": "What to Do When You See an Unusually Large Bar?",
+    "published_at": "2026-03-02 00:10:00"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（8）.md": {
+    "id": "69a472ed526b1093f21e9e9f",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-system-manual-8",
+    "title": "Price Action Trading System Manual (8)",
+    "published_at": "2026-03-02 00:10:05"
+  },
+  "translated/en/交易手册/价格行为交易系统手册（9）.md": {
+    "id": "69a472f44738a1b246124ff0",
+    "url": "https://victorjia.hashnode.dev/do-the-simplest-trades",
+    "title": "Do the Simplest Trades",
+    "published_at": "2026-03-02 00:10:12"
+  },
+  "translated/en/交易策略/Always_In___Gap强供需区交易策略.md": {
+    "id": "69a472fa4738a1b246124ff2",
+    "url": "https://victorjia.hashnode.dev/the-key-to-trend-trading-lies-in-identifying-whether-the-market-is-in-a-strong-state-always-in-and-fully-utilizing-unfilled-gaps-for-trading",
+    "title": "**The key to trend trading lies in identifying whether the market is in a strong state (Always In) and fully utilizing unfilled gaps for trading.**",
+    "published_at": "2026-03-02 00:10:18"
+  },
+  "translated/en/交易策略/交易周转率_为何高频周转是交易成功的关键_.md": {
+    "error": "Variable \"$input\" got invalid value \"**Many traders tend to focus on achieving a high risk-reward ratio on individual trades, hoping to earn substantial returns through long-term positions. However, the cost of this approach is that capital remains tied up for extended periods, profit cycles lengthen, and psychological pressure increases. In contrast, a \"quick in, quick out\" strategy that emphasizes trading turnover rate can effectively overcome these problems.**\" at \"input.title\". Must be no more than 250 characters in length",
+    "failed_at": "2026-03-02 00:10:24"
+  },
+  "translated/en/交易策略/价格与均线的距离_动能与价值的博弈.md": {
+    "error": "Variable \"$input\" got invalid value \"**In market trading, when price moves far from the moving average (MA), it often signals the coexistence of opportunity and risk. The moving average represents the market's generally accepted value center. When price moves away from the MA, how do we determine the direction of the market?**\" at \"input.title\". Must be no more than 250 characters in length",
+    "failed_at": "2026-03-02 00:10:30"
+  },
+  "translated/en/交易策略/价格行为学_如何理解交易系统.md": {
+    "id": "69a4730c4738a1b246124ff4",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-systems",
+    "title": "Price Action: How to Understand Trading Systems",
+    "published_at": "2026-03-02 00:10:36"
+  },
+  "translated/en/交易策略/价格行为学_如何理解顺势交易与逆势交易.md": {
+    "id": "69a47312526b1093f21e9ea1",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-with-trend-and-counter-trend-trading",
+    "title": "Price Action: How to Understand With-Trend and Counter-Trend Trading",
+    "published_at": "2026-03-02 00:10:42"
+  },
+  "translated/en/交易策略/价格行为学_测量缺口.md": {
+    "id": "69a47318526b1093f21e9ea3",
+    "url": "https://victorjia.hashnode.dev/shorting-above-bar-7-is-a-bet-on-a-wedge",
+    "title": "**Shorting above bar 7 is a bet** on a wedge.",
+    "published_at": "2026-03-02 00:10:48"
+  },
+  "translated/en/交易策略/价格行为学_缺口和均线跳空.md": {
+    "id": "69a4731eaa72e7ba85e8546f",
+    "url": "https://victorjia.hashnode.dev/price-action-gaps-and-moving-average-gap-bars",
+    "title": "Price Action: Gaps and Moving Average Gap Bars",
+    "published_at": "2026-03-02 00:10:55"
+  },
+  "translated/en/交易策略/价格行为学_缺口的应用.md": {
+    "id": "69a47324aa72e7ba85e85471",
+    "url": "https://victorjia.hashnode.dev/understanding-and-trading-micro-gaps-correctly",
+    "title": "**Understanding and Trading \"Micro Gaps\" Correctly**",
+    "published_at": "2026-03-02 00:11:00"
+  },
+  "translated/en/交易策略/价格行为学_逆势要快进快出.md": {
+    "id": "69a4732a4738a1b246124ff6",
+    "url": "https://victorjia.hashnode.dev/price-action-counter-trend-trades-should-be-quick-in-and-quick-out",
+    "title": "Price Action: Counter-Trend Trades Should Be Quick In and Quick Out",
+    "published_at": "2026-03-02 00:11:06"
+  },
+  "translated/en/交易策略/价格行为学交易决策系统.md": {
+    "id": "69a47330aa72e7ba85e85473",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-decision-system",
+    "title": "Price Action Trading Decision System",
+    "published_at": "2026-03-02 00:11:12"
+  },
+  "translated/en/交易策略/均线缺口棒（MAG）_交易逻辑与空头确认.md": {
+    "id": "69a473374738a1b246124ff8",
+    "url": "https://victorjia.hashnode.dev/i-core-trading-logic-of-the-moving-average-gap-bar-mag",
+    "title": "**I. Core Trading Logic of the Moving Average Gap Bar (MAG)**",
+    "published_at": "2026-03-02 00:11:19"
+  },
+  "translated/en/交易策略/数leg_leg1_大脑遍历.md": {
+    "id": "69a4733d4738a1b246124ffa",
+    "url": "https://victorjia.hashnode.dev/counting-legs-leg-1-mental-traversal",
+    "title": "Counting Legs, Leg 1, Mental Traversal",
+    "published_at": "2026-03-02 00:11:25"
+  },
+  "translated/en/交易策略/精准交易的核心_指数关键位与仓位策略.md": {
+    "id": "69a47343526b1093f21e9ea5",
+    "url": "https://victorjia.hashnode.dev/trading-is-never-simply-a-game-of-pursuing-a-high-win-rate-the-true-core-of-profitability-lies-in-precisely-identifying-clear-market-opportunities-controlling-risk-exposure-and-decisively-reducing-position-size-during-uncertain-market-conditions",
+    "title": "Trading is never simply a game of pursuing a high win rate. The true core of profitability lies in precisely identifying clear market opportunities, controlling risk exposure, and decisively reducing position size during uncertain market conditions.",
+    "published_at": "2026-03-02 00:11:31"
+  },
+  "translated/en/交易策略/顺势交易的四个关键法则.md": {
+    "id": "69a473494738a1b246124ffc",
+    "url": "https://victorjia.hashnode.dev/in-trading-going-with-the-trend-is-one-of-the-most-fundamental-and-effective-principles-however-most-traders-often-fail-due-to-trend-traps-and-misreadings",
+    "title": "In trading, going with the trend is one of the most fundamental and effective principles. However, most traders often fail due to trend \"traps\" and \"misreadings.\"",
+    "published_at": "2026-03-02 00:11:37"
+  },
+  "translated/en/交易策略/顺势逆势交易关键点.md": {
+    "id": "69a4734f4738a1b246124ffe",
+    "url": "https://victorjia.hashnode.dev/key-points-of-with-trend-and-counter-trend-trading",
+    "title": "Key Points of With-Trend and Counter-Trend Trading",
+    "published_at": "2026-03-02 00:11:43"
+  },
+  "translated/en/入场与出场/一个好的止盈策略.md": {
+    "id": "69a47355526b1093f21e9ea7",
+    "url": "https://victorjia.hashnode.dev/a-good-take-profit-strategy",
+    "title": "A Good Take-Profit Strategy",
+    "published_at": "2026-03-02 00:11:49"
+  },
+  "translated/en/入场与出场/价格行为学__高胜率策略_High_1_2_3_形态精准入场法.md": {
+    "id": "69a4735b873f63571c9c3ab9",
+    "url": "https://victorjia.hashnode.dev/price-action-high-win-rate-strategy-high-1-2-3-pattern-precision-entry-method",
+    "title": "Price Action: [High Win-Rate Strategy] High 1, 2, 3 Pattern Precision Entry Method",
+    "published_at": "2026-03-02 00:11:55"
+  },
+  "translated/en/入场与出场/价格行为学_一些常见波段交易.md": {
+    "id": "69a47361873f63571c9c3abb",
+    "url": "https://victorjia.hashnode.dev/price-action-some-common-swing-trades",
+    "title": "Price Action: Some Common Swing Trades",
+    "published_at": "2026-03-02 00:12:01"
+  },
+  "translated/en/入场与出场/价格行为学_保护性止损.md": {
+    "id": "69a47367873f63571c9c3abd",
+    "url": "https://victorjia.hashnode.dev/price-action-protective-stop-loss",
+    "title": "Price Action: Protective Stop Loss",
+    "published_at": "2026-03-02 00:12:07"
+  },
+  "translated/en/入场与出场/价格行为学_剥头皮交易方法（一）.md": {
+    "id": "69a4736d873f63571c9c3abf",
+    "url": "https://victorjia.hashnode.dev/price-action-scalping-methods-part-1",
+    "title": "Price Action: Scalping Methods (Part 1)",
+    "published_at": "2026-03-02 00:12:13"
+  },
+  "translated/en/入场与出场/价格行为学_剥头皮交易方法（二）.md": {
+    "id": "69a47373873f63571c9c3ac1",
+    "url": "https://victorjia.hashnode.dev/price-action-scalping-methods-part-2",
+    "title": "Price Action: Scalping Methods (Part 2)",
+    "published_at": "2026-03-02 00:12:19"
+  },
+  "translated/en/入场与出场/价格行为学_加仓.md": {
+    "id": "69a47379526b1093f21e9ea9",
+    "url": "https://victorjia.hashnode.dev/price-action-scaling-in",
+    "title": "Price Action: Scaling In",
+    "published_at": "2026-03-02 00:12:25"
+  },
+  "translated/en/入场与出场/价格行为学_加仓等同于一笔新的交易.md": {
+    "id": "69a4737f526b1093f21e9eab",
+    "url": "https://victorjia.hashnode.dev/price-action-scaling-in-is-equivalent-to-a-new-trade",
+    "title": "Price Action: Scaling In Is Equivalent to a New Trade",
+    "published_at": "2026-03-02 00:12:31"
+  },
+  "translated/en/入场与出场/价格行为学_如何理解二次入场.md": {
+    "id": "69a47385526b1093f21e9ead",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-second-entry",
+    "title": "Price Action: How to Understand Second Entry",
+    "published_at": "2026-03-02 00:12:37"
+  },
+  "translated/en/入场与出场/价格行为学_如何理解加仓.md": {
+    "id": "69a4738b526b1093f21e9eaf",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-scaling-in",
+    "title": "Price Action: How to Understand Scaling In",
+    "published_at": "2026-03-02 00:12:43"
+  },
+  "translated/en/入场与出场/价格行为学_如何理解提前离场.md": {
+    "id": "69a47391526b1093f21e9eb1",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-early-exit",
+    "title": "Price Action: How to Understand Early Exit",
+    "published_at": "2026-03-02 00:12:49"
+  },
+  "translated/en/入场与出场/价格行为学_宽止损的中途退出.md": {
+    "id": "69a47397526b1093f21e9eb3",
+    "url": "https://victorjia.hashnode.dev/price-action-early-exit-with-a-wide-stop-loss",
+    "title": "Price Action: Early Exit with a Wide Stop Loss",
+    "published_at": "2026-03-02 00:12:55"
+  },
+  "translated/en/入场与出场/价格行为学_最差止损位.md": {
+    "id": "69a4739d526b1093f21e9eb5",
+    "url": "https://victorjia.hashnode.dev/price-action-the-worst-stop-loss-placement",
+    "title": "Price Action: The Worst Stop Loss Placement",
+    "published_at": "2026-03-02 00:13:01"
+  },
+  "translated/en/入场与出场/价格行为学_止损越小_胜率越低.md": {
+    "id": "69a473a3526b1093f21e9eb7",
+    "url": "https://victorjia.hashnode.dev/price-action-the-smaller-the-stop-loss-the-lower-the-win-rate",
+    "title": "Price Action: The Smaller the Stop Loss, the Lower the Win Rate",
+    "published_at": "2026-03-02 00:13:07"
+  },
+  "translated/en/入场与出场/价格行为学_波段交易常见模式01.md": {
+    "id": "69a473a9526b1093f21e9eb9",
+    "url": "https://victorjia.hashnode.dev/price-action-common-swing-trading-patterns-01",
+    "title": "Price Action: Common Swing Trading Patterns 01",
+    "published_at": "2026-03-02 00:13:13"
+  },
+  "translated/en/入场与出场/价格行为学_波段交易的做法.md": {
+    "id": "69a473b0526b1093f21e9ebb",
+    "url": "https://victorjia.hashnode.dev/price-action-approaches-to-swing-trading",
+    "title": "Price Action: Approaches to Swing Trading",
+    "published_at": "2026-03-02 00:13:20"
+  },
+  "translated/en/入场与出场/价格行为学_波段交易的入场方法.md": {
+    "id": "69a473b6aa72e7ba85e85475",
+    "url": "https://victorjia.hashnode.dev/price-action-entry-methods-for-swing-trading",
+    "title": "Price Action: Entry Methods for Swing Trading",
+    "published_at": "2026-03-02 00:13:26"
+  },
+  "translated/en/入场与出场/价格行为学_波段交易（一）.md": {
+    "id": "69a473bcaa72e7ba85e85477",
+    "url": "https://victorjia.hashnode.dev/price-action-swing-trading-part-1",
+    "title": "Price Action: Swing Trading (Part 1)",
+    "published_at": "2026-03-02 00:13:32"
+  },
+  "translated/en/入场与出场/价格行为学_波段交易（二）.md": {
+    "id": "69a473c2aa72e7ba85e85479",
+    "url": "https://victorjia.hashnode.dev/price-action-swing-trading-part-2",
+    "title": "Price Action: Swing Trading (Part 2)",
+    "published_at": "2026-03-02 00:13:38"
+  },
+  "translated/en/入场与出场/价格行为学_限价单与市价单.md": {
+    "id": "69a473c8aa72e7ba85e8547b",
+    "url": "https://victorjia.hashnode.dev/price-action-limit-orders-and-market-orders",
+    "title": "Price Action: Limit Orders and Market Orders",
+    "published_at": "2026-03-02 00:13:44"
+  },
+  "translated/en/入场与出场/加仓技巧_借助反向leg的MM结构实现顺势介入.md": {
+    "id": "69a473ce526b1093f21e9ebd",
+    "url": "https://victorjia.hashnode.dev/scaling-in-techniques-using-the-measured-move-structure-of-counter-trend-legs-to-enter-with-the-trend",
+    "title": "Scaling In Techniques: Using the Measured Move Structure of Counter-Trend Legs to Enter With the Trend",
+    "published_at": "2026-03-02 00:13:50"
+  },
+  "translated/en/入场与出场/看盘的核心步骤与二次确认入场策略.md": {
+    "id": "69a473d7971294522afdc263",
+    "url": "https://victorjia.hashnode.dev/core-steps-for-reading-the-market-and-second-confirmation-entry-strategy",
+    "title": "Core Steps for Reading the Market and Second Confirmation Entry Strategy",
+    "published_at": "2026-03-02 00:13:59"
+  },
+  "translated/en/入门与成长/价格行为学_如何练习.md": {
+    "id": "69a473dd971294522afdc265",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-practice",
+    "title": "Price Action: How to Practice",
+    "published_at": "2026-03-02 00:14:05"
+  },
+  "translated/en/入门与成长/价格行为学_新手的方向.md": {
+    "id": "69a473e3971294522afdc267",
+    "url": "https://victorjia.hashnode.dev/price-action-direction-for-beginners",
+    "title": "Price Action: Direction for Beginners",
+    "published_at": "2026-03-02 00:14:11"
+  },
+  "translated/en/入门与成长/价格行为学_研究失败.md": {
+    "id": "69a473e9aa72e7ba85e85483",
+    "url": "https://victorjia.hashnode.dev/price-action-studying-failure",
+    "title": "Price Action: Studying Failure",
+    "published_at": "2026-03-02 00:14:17"
+  },
+  "translated/en/入门与成长/价格行为学_稳定盈利（1）.md": {
+    "id": "69a473ef971294522afdc272",
+    "url": "https://victorjia.hashnode.dev/price-action-consistent-profitability-1",
+    "title": "Price Action: Consistent Profitability (1)",
+    "published_at": "2026-03-02 00:14:23"
+  },
+  "translated/en/入门与成长/价格行为学_稳定盈利（2）.md": {
+    "id": "69a473f5971294522afdc274",
+    "url": "https://victorjia.hashnode.dev/price-action-consistent-profitability-2",
+    "title": "Price Action: Consistent Profitability (2)",
+    "published_at": "2026-03-02 00:14:29"
+  },
+  "translated/en/入门与成长/前言.md": {
+    "id": "69a473fb971294522afdc278",
+    "url": "https://victorjia.hashnode.dev/preface",
+    "title": "Preface",
+    "published_at": "2026-03-02 00:14:35"
+  },
+  "translated/en/入门与成长/唯一目标.md": {
+    "id": "69a47401971294522afdc27a",
+    "url": "https://victorjia.hashnode.dev/the-only-goal",
+    "title": "The Only Goal",
+    "published_at": "2026-03-02 00:14:41"
+  },
+  "translated/en/入门与成长/成为一个专业的交易员（1）.md": {
+    "id": "69a47407971294522afdc27c",
+    "url": "https://victorjia.hashnode.dev/becoming-a-professional-trader-1",
+    "title": "Becoming a Professional Trader (1)",
+    "published_at": "2026-03-02 00:14:47"
+  },
+  "translated/en/入门与成长/成为稳定盈利的交易者_到底需要多久_.md": {
+    "id": "69a4740d971294522afdc27e",
+    "url": "https://victorjia.hashnode.dev/how-long-does-it-really-take-to-become-a-consistently-profitable-trader",
+    "title": "How Long Does It Really Take to Become a Consistently Profitable Trader?",
+    "published_at": "2026-03-02 00:14:53"
+  },
+  "translated/en/入门与成长/新手建议_每天只做_1_2_笔波段单.md": {
+    "id": "69a47413aa72e7ba85e85485",
+    "url": "https://victorjia.hashnode.dev/advice-for-beginners-only-take-12-swing-trades-per-day",
+    "title": "Advice for Beginners: Only Take 1–2 Swing Trades Per Day",
+    "published_at": "2026-03-02 00:14:59"
+  },
+  "translated/en/入门与成长/没有完美形态_只有反复练习.md": {
+    "id": "69a47419971294522afdc280",
+    "url": "https://victorjia.hashnode.dev/there-is-no-perfect-pattern-only-repeated-practice",
+    "title": "There Is No Perfect Pattern, Only Repeated Practice",
+    "published_at": "2026-03-02 00:15:06"
+  },
+  "translated/en/入门与成长/真正的出路_自己理解市场.md": {
+    "id": "69a4741faa72e7ba85e85487",
+    "url": "https://victorjia.hashnode.dev/the-real-way-out-understanding-the-market-yourself",
+    "title": "The Real Way Out: Understanding the Market Yourself",
+    "published_at": "2026-03-02 00:15:11"
+  },
+  "translated/en/入门与成长/稳定盈利（3）.md": {
+    "id": "69a47425971294522afdc282",
+    "url": "https://victorjia.hashnode.dev/consistent-profitability-3",
+    "title": "Consistent Profitability (3)",
+    "published_at": "2026-03-02 00:15:17"
+  },
+  "translated/en/其他概念/一个品种等待机会_不如多品种寻找机会.md": {
+    "id": "69a4742caa72e7ba85e85489",
+    "url": "https://victorjia.hashnode.dev/instead-of-waiting-for-opportunities-in-one-instrument-seek-opportunities-across-multiple-instruments",
+    "title": "Instead of Waiting for Opportunities in One Instrument, Seek Opportunities Across Multiple Instruments",
+    "published_at": "2026-03-02 00:15:24"
+  },
+  "translated/en/其他概念/交易大部分人都在亏钱_.md": {
+    "id": "69a47432aa72e7ba85e8548b",
+    "url": "https://victorjia.hashnode.dev/are-most-traders-losing-money",
+    "title": "Are Most Traders Losing Money?",
+    "published_at": "2026-03-02 00:15:30"
+  },
+  "translated/en/其他概念/交易日记202512.md": {
+    "id": "69a47438971294522afdc284",
+    "url": "https://victorjia.hashnode.dev/trading-diary-202512",
+    "title": "Trading Diary 202512",
+    "published_at": "2026-03-02 00:15:36"
+  },
+  "translated/en/其他概念/价格行为学Ali的原则与行动.md": {
+    "id": "69a4743e971294522afdc286",
+    "url": "https://victorjia.hashnode.dev/price-action-alis-principles-and-actions",
+    "title": "Price Action: Ali's Principles and Actions",
+    "published_at": "2026-03-02 00:15:42"
+  },
+  "translated/en/其他概念/价格行为学Joseph的原则与行动.md": {
+    "id": "69a47444aa72e7ba85e8548d",
+    "url": "https://victorjia.hashnode.dev/price-action-josephs-principles-and-actions",
+    "title": "Price Action: Joseph's Principles and Actions",
+    "published_at": "2026-03-02 00:15:48"
+  },
+  "translated/en/其他概念/价格行为学_一直在场（Always_in_）.md": {
+    "id": "69a4744aaa72e7ba85e8548f",
+    "url": "https://victorjia.hashnode.dev/price-action-always-in",
+    "title": "Price Action: Always In",
+    "published_at": "2026-03-02 00:15:54"
+  },
+  "translated/en/其他概念/价格行为学_三角形.md": {
+    "id": "69a47450971294522afdc288",
+    "url": "https://victorjia.hashnode.dev/price-action-triangles",
+    "title": "Price Action: Triangles",
+    "published_at": "2026-03-02 00:16:00"
+  },
+  "translated/en/其他概念/价格行为学_两腿走势.md": {
+    "id": "69a47456aa72e7ba85e85491",
+    "url": "https://victorjia.hashnode.dev/price-action-two-legged-moves",
+    "title": "Price Action: Two-Legged Moves",
+    "published_at": "2026-03-02 00:16:06"
+  },
+  "translated/en/其他概念/价格行为学_为什么会有第二段走势.md": {
+    "id": "69a4745c971294522afdc28a",
+    "url": "https://victorjia.hashnode.dev/price-action-why-there-is-a-second-leg",
+    "title": "Price Action: Why There Is a Second Leg",
+    "published_at": "2026-03-02 00:16:12"
+  },
+  "translated/en/其他概念/价格行为学_为什么学不好交易（干货）.md": {
+    "id": "69a47462971294522afdc28c",
+    "url": "https://victorjia.hashnode.dev/price-action-why-most-people-cant-learn-trading-well-practical-insights",
+    "title": "Price Action: Why Most People Can't Learn Trading Well (Practical Insights)",
+    "published_at": "2026-03-02 00:16:18"
+  },
+  "translated/en/其他概念/价格行为学_主要摆动点.md": {
+    "id": "69a47468971294522afdc28e",
+    "url": "https://victorjia.hashnode.dev/price-action-major-swing-points",
+    "title": "Price Action: Major Swing Points",
+    "published_at": "2026-03-02 00:16:24"
+  },
+  "translated/en/其他概念/价格行为学_交易常见问题（一）.md": {
+    "id": "69a4746eaa72e7ba85e85493",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-questions-part-1",
+    "title": "Price Action: Common Trading Questions (Part 1)",
+    "published_at": "2026-03-02 00:16:30"
+  },
+  "translated/en/其他概念/价格行为学_交易常见问题（三）.md": {
+    "id": "69a47474aa72e7ba85e85495",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-questions-part-3",
+    "title": "Price Action: Common Trading Questions (Part 3)",
+    "published_at": "2026-03-02 00:16:36"
+  },
+  "translated/en/其他概念/价格行为学_交易常见问题（二）.md": {
+    "id": "69a4747aaa72e7ba85e85497",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-questions-part-2",
+    "title": "Price Action: Common Trading Questions (Part 2)",
+    "published_at": "2026-03-02 00:16:42"
+  },
+  "translated/en/其他概念/价格行为学_交易常见问题（五）.md": {
+    "id": "69a47480971294522afdc290",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-questions-part-5",
+    "title": "Price Action: Common Trading Questions (Part 5)",
+    "published_at": "2026-03-02 00:16:48"
+  },
+  "translated/en/其他概念/价格行为学_交易常见问题（四）.md": {
+    "id": "69a47486971294522afdc292",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-questions-part-4",
+    "title": "Price Action: Common Trading Questions (Part 4)",
+    "published_at": "2026-03-02 00:16:54"
+  },
+  "translated/en/其他概念/价格行为学_交易是一门非常难的技能.md": {
+    "id": "69a4748c971294522afdc294",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-is-an-extremely-difficult-skill",
+    "title": "Price Action: Trading Is an Extremely Difficult Skill",
+    "published_at": "2026-03-02 00:17:00"
+  },
+  "translated/en/其他概念/价格行为学_交易的图表是什么.md": {
+    "id": "69a47492aa72e7ba85e85499",
+    "url": "https://victorjia.hashnode.dev/price-action-what-are-trading-charts",
+    "title": "Price Action: What Are Trading Charts?",
+    "published_at": "2026-03-02 00:17:06"
+  },
+  "translated/en/其他概念/价格行为学_什么时候应该等待.md": {
+    "id": "69a47498971294522afdc296",
+    "url": "https://victorjia.hashnode.dev/price-action-when-should-you-wait",
+    "title": "Price Action: When Should You Wait",
+    "published_at": "2026-03-02 00:17:12"
+  },
+  "translated/en/其他概念/价格行为学_分形的间隙.md": {
+    "id": "69a4749e971294522afdc298",
+    "url": "https://victorjia.hashnode.dev/price-action-gaps-in-fractal-structure",
+    "title": "Price Action: Gaps in Fractal Structure",
+    "published_at": "2026-03-02 00:17:18"
+  },
+  "translated/en/其他概念/价格行为学_双重阻力.md": {
+    "id": "69a474a4971294522afdc29a",
+    "url": "https://victorjia.hashnode.dev/price-action-double-resistance",
+    "title": "Price Action: Double Resistance",
+    "published_at": "2026-03-02 00:17:24"
+  },
+  "translated/en/其他概念/价格行为学_回调（Pullback）.md": {
+    "id": "69a474aaaa72e7ba85e8549b",
+    "url": "https://victorjia.hashnode.dev/price-action-pullback",
+    "title": "Price Action: Pullback",
+    "published_at": "2026-03-02 00:17:30"
+  },
+  "translated/en/其他概念/价格行为学_如何理解_setup.md": {
+    "id": "69a474b0aa72e7ba85e8549d",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-setups",
+    "title": "Price Action: How to Understand Setups",
+    "published_at": "2026-03-02 00:17:36"
+  },
+  "translated/en/其他概念/价格行为学_如何理解不同市场周期的订单类型.md": {
+    "id": "69a474b6526b1093f21e9ebf",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-order-types-for-different-market-cycles",
+    "title": "Price Action: How to Understand Order Types for Different Market Cycles",
+    "published_at": "2026-03-02 00:17:42"
+  },
+  "translated/en/其他概念/价格行为学_如何理解复杂走势.md": {
+    "id": "69a474bc526b1093f21e9ec1",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-complex-price-action",
+    "title": "Price Action: How to Understand Complex Price Action",
+    "published_at": "2026-03-02 00:17:48"
+  },
+  "translated/en/其他概念/价格行为学_如何理解大小周期关系（一）.md": {
+    "id": "69a474c2526b1093f21e9ec3",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-the-relationship-between-higher-and-lower-timeframes-part-1",
+    "title": "Price Action: How to Understand the Relationship Between Higher and Lower Timeframes (Part 1)",
+    "published_at": "2026-03-02 00:17:54"
+  },
+  "translated/en/其他概念/价格行为学_如何理解市场惯性.md": {
+    "id": "69a474c8526b1093f21e9ec7",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-market-inertia",
+    "title": "Price Action: How to Understand Market Inertia",
+    "published_at": "2026-03-02 00:18:00"
+  },
+  "translated/en/其他概念/价格行为学_如何理解技术结构.md": {
+    "id": "69a474ce526b1093f21e9ec9",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-technical-structure",
+    "title": "Price Action: How to Understand Technical Structure",
+    "published_at": "2026-03-02 00:18:06"
+  },
+  "translated/en/其他概念/价格行为学_如何理解收盘的重要性.md": {
+    "id": "69a474d4526b1093f21e9ecc",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-the-importance-of-the-close",
+    "title": "Price Action: How to Understand the Importance of the Close",
+    "published_at": "2026-03-02 00:18:12"
+  },
+  "translated/en/其他概念/价格行为学_如何理解时势造英雄.md": {
+    "id": "69a474daaa72e7ba85e8549f",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-the-times-make-the-hero",
+    "title": "Price Action: How to Understand \"The Times Make the Hero\"",
+    "published_at": "2026-03-02 00:18:19"
+  },
+  "translated/en/其他概念/价格行为学_如果你做多.md": {
+    "id": "69a474e1aa72e7ba85e854a1",
+    "url": "https://victorjia.hashnode.dev/price-action-if-you-go-long",
+    "title": "Price Action: If You Go Long",
+    "published_at": "2026-03-02 00:18:25"
+  },
+  "translated/en/其他概念/价格行为学_实际风险.md": {
+    "id": "69a474e7aa72e7ba85e854a3",
+    "url": "https://victorjia.hashnode.dev/price-action-actual-risk",
+    "title": "Price Action: Actual Risk",
+    "published_at": "2026-03-02 00:18:31"
+  },
+  "translated/en/其他概念/价格行为学_市场结构交易方法概述.md": {
+    "id": "69a474ed526b1093f21e9ece",
+    "url": "https://victorjia.hashnode.dev/price-action-overview-of-market-structure-trading-methods",
+    "title": "Price Action: Overview of Market Structure Trading Methods",
+    "published_at": "2026-03-02 00:18:37"
+  },
+  "translated/en/其他概念/价格行为学_持有多头等于建立多头.md": {
+    "id": "69a474f3526b1093f21e9ed0",
+    "url": "https://victorjia.hashnode.dev/price-action-holding-long-equals-initiating-long",
+    "title": "Price Action: Holding Long Equals Initiating Long",
+    "published_at": "2026-03-02 00:18:44"
+  },
+  "translated/en/其他概念/价格行为学_接近阻力位的方式.md": {
+    "id": "69a474fa526b1093f21e9ed2",
+    "url": "https://victorjia.hashnode.dev/price-action-how-price-approaches-resistance",
+    "title": "Price Action: How Price Approaches Resistance",
+    "published_at": "2026-03-02 00:18:50"
+  },
+  "translated/en/其他概念/价格行为学_支撑与阻力.md": {
+    "id": "69a47500971294522afdc29c",
+    "url": "https://victorjia.hashnode.dev/price-action-support-and-resistance",
+    "title": "Price Action: Support and Resistance",
+    "published_at": "2026-03-02 00:18:56"
+  },
+  "translated/en/其他概念/价格行为学_支撑阻力的失效.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:01"
+  },
+  "translated/en/其他概念/价格行为学_支撑阻力的理解.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:06"
+  },
+  "translated/en/其他概念/价格行为学_无尽回调（Endless_Pullback）.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:11"
+  },
+  "translated/en/其他概念/价格行为学_每笔走势都是在测试.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:30"
+  },
+  "translated/en/其他概念/价格行为学_永远多头（Always_In_Long）交易方法.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:35"
+  },
+  "translated/en/其他概念/价格行为学_理解市场周期.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:19:40"
+  },
+  "translated/en/其他概念/价格行为学_目标与路径.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:21:31"
+  },
+  "translated/en/其他概念/价格行为学_第一次回撤.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:21:37"
+  },
+  "translated/en/其他概念/价格行为学_第一次回调.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:21:42"
+  },
+  "translated/en/其他概念/价格行为学_试探性交易.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:21:47"
+  },
+  "translated/en/其他概念/价格行为学_逐K复盘的目标.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:21:52"
+  },
+  "translated/en/其他概念/价格行为学漫画（01）.md": {
+    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "failed_at": "2026-03-02 00:25:09"
+  },
+  "translated/en/其他概念/借鉴_Gabriel_的方法学习价格行为.md": {
+    "id": "69a4767c11d358fb45a86429",
+    "url": "https://victorjia.hashnode.dev/learning-price-action-using-gabriels-method",
+    "title": "Learning Price Action Using Gabriel's Method",
+    "published_at": "2026-03-02 00:25:16"
+  },
+  "translated/en/其他概念/几次小赚为何带来长期的亏损_.md": {
+    "id": "69a476824738a1b246125000",
+    "url": "https://victorjia.hashnode.dev/why-do-several-small-wins-lead-to-long-term-losses",
+    "title": "Why Do Several Small Wins Lead to Long-Term Losses?",
+    "published_at": "2026-03-02 00:25:22"
+  },
+  "translated/en/其他概念/如果你长期亏钱.md": {
+    "id": "69a4768811d358fb45a8642b",
+    "url": "https://victorjia.hashnode.dev/if-youve-been-losing-money-long-term",
+    "title": "If You've Been Losing Money Long-Term",
+    "published_at": "2026-03-02 00:25:29"
+  },
+  "translated/en/其他概念/市场跳空下跌_怎么判断是该追空_还是等反弹做多_.md": {
+    "id": "69a4768f4738a1b246125002",
+    "url": "https://victorjia.hashnode.dev/market-gaps-down-how-to-judge-whether-to-chase-the-short-or-wait-for-a-bounce-to-go-long",
+    "title": "Market Gaps Down: How to Judge Whether to Chase the Short or Wait for a Bounce to Go Long?",
+    "published_at": "2026-03-02 00:25:35"
+  },
+  "translated/en/其他概念/机构足迹_如何识别机构行为并跟随其交易.md": {
+    "id": "69a476974738a1b246125004",
+    "url": "https://victorjia.hashnode.dev/institutional-footprints-how-to-identify-institutional-behavior-and-follow-their-trades",
+    "title": "Institutional Footprints: How to Identify Institutional Behavior and Follow Their Trades",
+    "published_at": "2026-03-02 00:25:43"
+  },
+  "translated/en/其他概念/知识星球精选20250423.md": {
+    "id": "69a476b311d358fb45a8642d",
+    "url": "https://victorjia.hashnode.dev/knowledge-planet-selections-20250423",
+    "title": "Knowledge Planet Selections 20250423",
+    "published_at": "2026-03-02 00:26:11"
+  },
+  "translated/en/心理与错误/交易心理学_新手的误区.md": {
+    "id": "69a476b911d358fb45a8642f",
+    "url": "https://victorjia.hashnode.dev/trading-psychology-common-mistakes-of-beginners",
+    "title": "Trading Psychology: Common Mistakes of Beginners",
+    "published_at": "2026-03-02 00:26:17"
+  },
+  "translated/en/心理与错误/交易心理学_永远有比你更聪明的对手盘.md": {
+    "id": "69a476c04738a1b246125006",
+    "url": "https://victorjia.hashnode.dev/trading-psychology-there-is-always-a-smarter-counterparty",
+    "title": "Trading Psychology: There Is Always a Smarter Counterparty",
+    "published_at": "2026-03-02 00:26:24"
+  },
+  "translated/en/心理与错误/价格行为学_交易中的疑惑.md": {
+    "id": "69a476c64738a1b246125008",
+    "url": "https://victorjia.hashnode.dev/price-action-doubts-in-trading",
+    "title": "Price Action: Doubts in Trading",
+    "published_at": "2026-03-02 00:27:02"
+  },
+  "translated/en/心理与错误/价格行为学_交易是追寻幸福的旅程.md": {
+    "id": "69a477153593ae4f8296bec4",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-is-a-journey-in-pursuit-of-happiness",
+    "title": "Price Action: Trading Is a Journey in Pursuit of Happiness",
+    "published_at": "2026-03-02 00:27:50"
+  },
+  "translated/en/心理与错误/价格行为学_交易的幻觉.md": {
+    "id": "69a4771c4738a1b24612500a",
+    "url": "https://victorjia.hashnode.dev/price-action-the-illusion-of-trading",
+    "title": "Price Action: The Illusion of Trading",
+    "published_at": "2026-03-02 00:27:56"
+  },
+  "translated/en/心理与错误/价格行为学_交易的恐惧.md": {
+    "id": "69a477223593ae4f8296bec6",
+    "url": "https://victorjia.hashnode.dev/price-action-the-fear-of-trading",
+    "title": "Price Action: The Fear of Trading",
+    "published_at": "2026-03-02 00:28:02"
+  },
+  "translated/en/心理与错误/价格行为学_交易精髓在于经验淬炼出的艺术.md": {
+    "id": "69a477283593ae4f8296bec8",
+    "url": "https://victorjia.hashnode.dev/price-action-the-essence-of-trading-lies-in-the-art-refined-through-experience",
+    "title": "Price Action: The Essence of Trading Lies in the Art Refined Through Experience",
+    "published_at": "2026-03-02 00:28:08"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（一）.md": {
+    "id": "69a4772f4738a1b24612500c",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-1",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 1)",
+    "published_at": "2026-03-02 00:28:15"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（七）.md": {
+    "id": "69a477354738a1b24612500e",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-7",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 7)",
+    "published_at": "2026-03-02 00:28:21"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（三）.md": {
+    "id": "69a4773b11d358fb45a86433",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-3",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 3)",
+    "published_at": "2026-03-02 00:28:27"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（九）.md": {
+    "id": "69a477413593ae4f8296becd",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-9",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 9)",
+    "published_at": "2026-03-02 00:28:33"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（二）.md": {
+    "id": "69a477473593ae4f8296bed1",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-2",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 2)",
+    "published_at": "2026-03-02 00:28:39"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（五）.md": {
+    "id": "69a4774d3593ae4f8296bed3",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-5",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 5)",
+    "published_at": "2026-03-02 00:28:45"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（八）.md": {
+    "id": "69a477533593ae4f8296bed5",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-8",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 8)",
+    "published_at": "2026-03-02 00:28:51"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（六）.md": {
+    "id": "69a477593593ae4f8296bed7",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-6",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 6)",
+    "published_at": "2026-03-02 00:28:57"
+  },
+  "translated/en/心理与错误/价格行为学_因为错误而亏损（四）.md": {
+    "id": "69a4775f3593ae4f8296bed9",
+    "url": "https://victorjia.hashnode.dev/price-action-losing-money-due-to-mistakes-part-4",
+    "title": "Price Action: Losing Money Due to Mistakes (Part 4)",
+    "published_at": "2026-03-02 00:29:04"
+  },
+  "translated/en/心理与错误/价格行为学_如何理解交易心理.md": {
+    "id": "69a477663593ae4f8296bedb",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-psychology",
+    "title": "Price Action: How to Understand Trading Psychology",
+    "published_at": "2026-03-02 00:29:10"
+  },
+  "translated/en/心理与错误/价格行为学_常见交易心理.md": {
+    "id": "69a4776c3593ae4f8296bedd",
+    "url": "https://victorjia.hashnode.dev/price-action-common-trading-psychology",
+    "title": "Price Action: Common Trading Psychology",
+    "published_at": "2026-03-02 00:29:16"
+  },
+  "translated/en/心理与错误/价格行为学_用不在乎的仓位.md": {
+    "id": "69a477723593ae4f8296bedf",
+    "url": "https://victorjia.hashnode.dev/price-action-trade-with-a-position-size-you-dont-care-about",
+    "title": "Price Action: Trade with a Position Size You Don't Care About",
+    "published_at": "2026-03-02 00:29:22"
+  },
+  "translated/en/心理与错误/价格行为学_趋势最终都会让交易者感到失望.md": {
+    "id": "69a477794738a1b246125015",
+    "url": "https://victorjia.hashnode.dev/price-action-trends-will-eventually-disappoint-traders",
+    "title": "Price Action: Trends Will Eventually Disappoint Traders",
+    "published_at": "2026-03-02 00:29:29"
+  },
+  "translated/en/心理与错误/价格行为学_选择放弃.md": {
+    "id": "69a4777f3593ae4f8296bee1",
+    "url": "https://victorjia.hashnode.dev/price-action-choosing-to-pass",
+    "title": "Price Action: Choosing to Pass",
+    "published_at": "2026-03-02 00:29:35"
+  },
+  "translated/en/心理与错误/你不是一个人在做交易.md": {
+    "id": "69a477854738a1b246125017",
+    "url": "https://victorjia.hashnode.dev/you-are-not-trading-alone",
+    "title": "You Are Not Trading Alone",
+    "published_at": "2026-03-02 00:29:41"
+  },
+  "translated/en/心理与错误/你为什么是韭菜_.md": {
+    "id": "69a4778b4738a1b246125019",
+    "url": "https://victorjia.hashnode.dev/why-are-you-a-leek-retail-trader-who-consistently-loses-money",
+    "title": "Why Are You a \"Leek\" (Retail Trader Who Consistently Loses Money)?",
+    "published_at": "2026-03-02 00:29:47"
+  },
+  "translated/en/心理与错误/反脆弱交易.md": {
+    "id": "69a477914738a1b24612501b",
+    "url": "https://victorjia.hashnode.dev/antifragile-trading",
+    "title": "Antifragile Trading",
+    "published_at": "2026-03-02 00:29:53"
+  },
+  "translated/en/心理与错误/如何避免报复性交易.md": {
+    "id": "69a477973593ae4f8296bee3",
+    "url": "https://victorjia.hashnode.dev/how-to-avoid-revenge-trading",
+    "title": "How to Avoid Revenge Trading",
+    "published_at": "2026-03-02 00:29:59"
+  },
+  "translated/en/心理与错误/离开屏幕.md": {
+    "id": "69a4779d3593ae4f8296bee5",
+    "url": "https://victorjia.hashnode.dev/step-away-from-the-screen",
+    "title": "Step Away from the Screen",
+    "published_at": "2026-03-02 00:30:05"
+  },
+  "translated/en/心理与错误/记录才能识别重复错误.md": {
+    "id": "69a477a34738a1b24612501d",
+    "url": "https://victorjia.hashnode.dev/only-through-record-keeping-can-you-identify-repeated-mistakes",
+    "title": "Only Through Record-Keeping Can You Identify Repeated Mistakes",
+    "published_at": "2026-03-02 00:30:11"
+  },
+  "translated/en/心理与错误/还记得刚开始学习交易的自己吗_.md": {
+    "id": "69a477a93593ae4f8296beec",
+    "url": "https://victorjia.hashnode.dev/do-you-still-remember-when-you-first-started-learning-to-trade",
+    "title": "Do You Still Remember When You First Started Learning to Trade?",
+    "published_at": "2026-03-02 00:30:18"
+  },
+  "translated/en/心理与错误/适合自己的节奏.md": {
+    "id": "69a477b011d358fb45a86438",
+    "url": "https://victorjia.hashnode.dev/find-your-own-rhythm",
+    "title": "Find Your Own Rhythm",
+    "published_at": "2026-03-02 00:30:24"
+  },
+  "translated/en/突破与反转/交易成功学_阅读失败_动态视角.md": {
+    "id": "69a477b64738a1b246125021",
+    "url": "https://victorjia.hashnode.dev/trading-success-studies-reading-failure-from-a-dynamic-perspective",
+    "title": "Trading Success Studies: Reading Failure from a Dynamic Perspective",
+    "published_at": "2026-03-02 00:30:30"
+  },
+  "translated/en/突破与反转/价格行为学__失败的突破.md": {
+    "id": "69a477bc4738a1b246125023",
+    "url": "https://victorjia.hashnode.dev/price-action-failed-breakouts",
+    "title": "Price Action: Failed Breakouts",
+    "published_at": "2026-03-02 00:30:36"
+  },
+  "translated/en/突破与反转/价格行为学_双重失败反转.md": {
+    "id": "69a477c211d358fb45a8643a",
+    "url": "https://victorjia.hashnode.dev/price-action-double-failed-reversal",
+    "title": "Price Action: Double Failed Reversal",
+    "published_at": "2026-03-02 00:30:42"
+  },
+  "translated/en/突破与反转/价格行为学_双顶双底的反转结构关键细节.md": {
+    "id": "69a477c811d358fb45a8643c",
+    "url": "https://victorjia.hashnode.dev/price-action-key-details-of-double-top-and-double-bottom-reversal-structures",
+    "title": "Price Action: Key Details of Double Top and Double Bottom Reversal Structures",
+    "published_at": "2026-03-02 00:30:48"
+  },
+  "translated/en/突破与反转/价格行为学_双顶双底（一）.md": {
+    "id": "69a477ce4738a1b246125025",
+    "url": "https://victorjia.hashnode.dev/price-action-double-tops-and-double-bottoms-part-1",
+    "title": "Price Action: Double Tops and Double Bottoms (Part 1)",
+    "published_at": "2026-03-02 00:30:54"
+  },
+  "translated/en/突破与反转/价格行为学_双顶双底（二）.md": {
+    "id": "69a477d44738a1b246125027",
+    "url": "https://victorjia.hashnode.dev/price-action-double-tops-and-double-bottoms-part-2",
+    "title": "Price Action: Double Tops and Double Bottoms (Part 2)",
+    "published_at": "2026-03-02 00:31:00"
+  },
+  "translated/en/突破与反转/价格行为学_反转交易（一）.md": {
+    "id": "69a477da4738a1b246125029",
+    "url": "https://victorjia.hashnode.dev/price-action-reversal-trading-part-1",
+    "title": "Price Action: Reversal Trading (Part 1)",
+    "published_at": "2026-03-02 00:31:06"
+  },
+  "translated/en/突破与反转/价格行为学_反转交易（二）.md": {
+    "id": "69a477e04738a1b24612502b",
+    "url": "https://victorjia.hashnode.dev/price-action-reversal-trading-part-2",
+    "title": "Price Action: Reversal Trading (Part 2)",
+    "published_at": "2026-03-02 00:31:12"
+  },
+  "translated/en/突破与反转/价格行为学_大反转.md": {
+    "id": "69a477e64738a1b24612502d",
+    "url": "https://victorjia.hashnode.dev/price-action-major-reversals",
+    "title": "Price Action: Major Reversals",
+    "published_at": "2026-03-02 00:31:18"
+  },
+  "translated/en/突破与反转/价格行为学_如何定义突破点.md": {
+    "id": "69a477ec4738a1b24612502f",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-define-breakout-points",
+    "title": "Price Action: How to Define Breakout Points",
+    "published_at": "2026-03-02 00:31:25"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解交易失败.md": {
+    "id": "69a477f24738a1b246125031",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-failures",
+    "title": "Price Action: How to Understand Trading Failures",
+    "published_at": "2026-03-02 00:31:30"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解假突破.md": {
+    "id": "69a477f84738a1b246125033",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-failed-breakouts",
+    "title": "Price Action: How to Understand Failed Breakouts",
+    "published_at": "2026-03-02 00:31:37"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转K线.md": {
+    "id": "69a477fe4738a1b246125035",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversal-bars",
+    "title": "Price Action: How to Understand Reversal Bars",
+    "published_at": "2026-03-02 00:31:43"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转（一）.md": {
+    "id": "69a478054738a1b246125037",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversals-part-1",
+    "title": "Price Action: How to Understand Reversals (Part 1)",
+    "published_at": "2026-03-02 00:31:49"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转（三）.md": {
+    "id": "69a4780b4738a1b246125039",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversals-part-3",
+    "title": "Price Action: How to Understand Reversals (Part 3)",
+    "published_at": "2026-03-02 00:31:55"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转（二）.md": {
+    "id": "69a478113593ae4f8296beee",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversals-part-2",
+    "title": "Price Action: How to Understand Reversals (Part 2)",
+    "published_at": "2026-03-02 00:32:01"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转（五）.md": {
+    "id": "69a478174738a1b24612503b",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversals-part-5",
+    "title": "Price Action: How to Understand Reversals (Part 5)",
+    "published_at": "2026-03-02 00:32:07"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解反转（四）.md": {
+    "id": "69a4781d4738a1b24612503f",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-reversals-part-4",
+    "title": "Price Action: How to Understand Reversals (Part 4)",
+    "published_at": "2026-03-02 00:32:14"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解失败反转.md": {
+    "id": "69a478234738a1b246125041",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-failed-reversals",
+    "title": "Price Action: How to Understand Failed Reversals",
+    "published_at": "2026-03-02 00:32:19"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解失败的失败.md": {
+    "id": "69a478294738a1b246125043",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-failed-failures",
+    "title": "Price Action: How to Understand Failed Failures",
+    "published_at": "2026-03-02 00:32:25"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解突破.md": {
+    "id": "69a4782f4738a1b246125045",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-breakouts",
+    "title": "Price Action: How to Understand Breakouts",
+    "published_at": "2026-03-02 00:32:31"
+  },
+  "translated/en/突破与反转/价格行为学_如何理解突破测试（一）.md": {
+    "id": "69a478353593ae4f8296bef0",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-breakout-tests-part-1",
+    "title": "Price Action: How to Understand Breakout Tests (Part 1)",
+    "published_at": "2026-03-02 00:32:37"
+  },
+  "translated/en/突破与反转/价格行为学_如何突破低胜率困境.md": {
+    "id": "69a4783b3593ae4f8296bef2",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-break-through-the-low-win-rate-dilemma",
+    "title": "Price Action: How to Break Through the Low Win-Rate Dilemma",
+    "published_at": "2026-03-02 00:32:43"
+  },
+  "translated/en/突破与反转/价格行为学_形态失败带来高概率.md": {
+    "id": "69a478413593ae4f8296bef4",
+    "url": "https://victorjia.hashnode.dev/price-action-pattern-failures-create-high-probability",
+    "title": "Price Action: Pattern Failures Create High Probability",
+    "published_at": "2026-03-02 00:32:49"
+  },
+  "translated/en/突破与反转/价格行为学_怎么定义楔形.md": {
+    "id": "69a478473593ae4f8296bef7",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-define-a-wedge",
+    "title": "Price Action: How to Define a Wedge",
+    "published_at": "2026-03-02 00:32:55"
+  },
+  "translated/en/突破与反转/价格行为学_急涨急跌都是反转形态.md": {
+    "id": "69a4784d3593ae4f8296bef9",
+    "url": "https://victorjia.hashnode.dev/price-action-sharp-rallies-and-sharp-declines-are-both-reversal-patterns",
+    "title": "Price Action: Sharp Rallies and Sharp Declines Are Both Reversal Patterns",
+    "published_at": "2026-03-02 00:33:01"
+  },
+  "translated/en/突破与反转/价格行为学_抛售高潮climax.md": {
+    "id": "69a478534738a1b246125047",
+    "url": "https://victorjia.hashnode.dev/price-action-selling-climax",
+    "title": "Price Action: Selling Climax",
+    "published_at": "2026-03-02 00:33:07"
+  },
+  "translated/en/突破与反转/价格行为学_最终旗形final_flag（一）.md": {
+    "id": "69a478594738a1b246125049",
+    "url": "https://victorjia.hashnode.dev/price-action-final-flag-part-1",
+    "title": "Price Action: Final Flag (Part 1)",
+    "published_at": "2026-03-02 00:33:14"
+  },
+  "translated/en/突破与反转/价格行为学_最终旗形final_flag（二）.md": {
+    "id": "69a478603593ae4f8296befb",
+    "url": "https://victorjia.hashnode.dev/price-action-final-flag-part-2",
+    "title": "Price Action: Final Flag (Part 2)",
+    "published_at": "2026-03-02 00:33:20"
+  },
+  "translated/en/突破与反转/价格行为学_极端反转.md": {
+    "id": "69a478663593ae4f8296befd",
+    "url": "https://victorjia.hashnode.dev/price-action-extreme-reversals",
+    "title": "Price Action: Extreme Reversals",
+    "published_at": "2026-03-02 00:33:26"
+  },
+  "translated/en/突破与反转/价格行为学_楔形（Wedge）.md": {
+    "id": "69a4786c4738a1b24612504b",
+    "url": "https://victorjia.hashnode.dev/price-action-wedge",
+    "title": "Price Action: Wedge",
+    "published_at": "2026-03-02 00:33:32"
+  },
+  "translated/en/突破与反转/价格行为学_楔形（一）.md": {
+    "id": "69a4787211d358fb45a8643e",
+    "url": "https://victorjia.hashnode.dev/price-action-wedge-part-1",
+    "title": "Price Action: Wedge (Part 1)",
+    "published_at": "2026-03-02 00:33:38"
+  },
+  "translated/en/突破与反转/价格行为学_楔形（二）.md": {
+    "id": "69a478784738a1b24612504d",
+    "url": "https://victorjia.hashnode.dev/price-action-wedge-part-2",
+    "title": "Price Action: Wedge (Part 2)",
+    "published_at": "2026-03-02 00:33:44"
+  },
+  "translated/en/突破与反转/价格行为学_突破.md": {
+    "id": "69a4787e4738a1b24612504f",
+    "url": "https://victorjia.hashnode.dev/price-action-breakouts",
+    "title": "Price Action: Breakouts",
+    "published_at": "2026-03-02 00:33:50"
+  },
+  "translated/en/突破与反转/价格行为学_突破与回测.md": {
+    "id": "69a478844738a1b246125051",
+    "url": "https://victorjia.hashnode.dev/price-action-breakouts-and-retests",
+    "title": "Price Action: Breakouts and Retests",
+    "published_at": "2026-03-02 00:33:56"
+  },
+  "translated/en/突破与反转/价格行为学_突破中的买卖区.md": {
+    "id": "69a4788a4738a1b246125053",
+    "url": "https://victorjia.hashnode.dev/price-action-buy-and-sell-zones-in-breakouts",
+    "title": "Price Action: Buy and Sell Zones in Breakouts",
+    "published_at": "2026-03-02 00:34:02"
+  },
+  "translated/en/突破与反转/价格行为学_突破交易（一）.md": {
+    "id": "69a4789011d358fb45a86440",
+    "url": "https://victorjia.hashnode.dev/price-action-breakout-trading-part-1",
+    "title": "Price Action: Breakout Trading (Part 1)",
+    "published_at": "2026-03-02 00:34:08"
+  },
+  "translated/en/突破与反转/价格行为学_突破交易（二）.md": {
+    "id": "69a4789711d358fb45a86443",
+    "url": "https://victorjia.hashnode.dev/price-action-breakout-trading-part-2",
+    "title": "Price Action: Breakout Trading (Part 2)",
+    "published_at": "2026-03-02 00:34:15"
+  },
+  "translated/en/突破与反转/价格行为学_突破失败与反向交易.md": {
+    "id": "69a4789d4738a1b246125057",
+    "url": "https://victorjia.hashnode.dev/price-action-failed-breakouts-and-counter-directional-trading",
+    "title": "Price Action: Failed Breakouts and Counter-Directional Trading",
+    "published_at": "2026-03-02 00:34:21"
+  },
+  "translated/en/突破与反转/价格行为学_突破失败后.md": {
+    "id": "69a478a34738a1b24612505d",
+    "url": "https://victorjia.hashnode.dev/price-action-after-a-failed-breakout",
+    "title": "Price Action: After a Failed Breakout",
+    "published_at": "2026-03-02 00:34:27"
+  },
+  "translated/en/突破与反转/价格行为学_突破的次数.md": {
+    "id": "69a478a94738a1b246125063",
+    "url": "https://victorjia.hashnode.dev/price-action-the-number-of-breakout-attempts",
+    "title": "Price Action: The Number of Breakout Attempts",
+    "published_at": "2026-03-02 00:34:33"
+  },
+  "translated/en/突破与反转/价格行为学_突破的限价单.md": {
+    "id": "69a478af4738a1b246125065",
+    "url": "https://victorjia.hashnode.dev/price-action-limit-orders-on-breakouts",
+    "title": "Price Action: Limit Orders on Breakouts",
+    "published_at": "2026-03-02 00:34:39"
+  },
+  "translated/en/突破与反转/价格行为学_突破跟随.md": {
+    "id": "69a478b54738a1b246125067",
+    "url": "https://victorjia.hashnode.dev/price-action-breakout-follow-through",
+    "title": "Price Action: Breakout Follow-Through",
+    "published_at": "2026-03-02 00:34:45"
+  },
+  "translated/en/突破与反转/提高交易胜率的关键_理解Leg_顺势与反转策略.md": {
+    "id": "69a478bb4738a1b246125069",
+    "url": "https://victorjia.hashnode.dev/the-key-to-improving-trading-win-rate-understanding-legs-with-trend-and-reversal-strategies",
+    "title": "The Key to Improving Trading Win Rate: Understanding Legs, With-Trend and Reversal Strategies",
+    "published_at": "2026-03-02 00:34:51"
+  },
+  "translated/en/突破与反转/楔形失败_理解最终旗形_复杂系统改写.md": {
+    "id": "69a478c14738a1b24612506b",
+    "url": "https://victorjia.hashnode.dev/wedge-failure-understanding-the-final-flag-complex-system-rewrite",
+    "title": "Wedge Failure, Understanding the Final Flag, Complex System Rewrite",
+    "published_at": "2026-03-02 00:34:57"
+  },
+  "translated/en/突破与反转/突破传统交易枷锁__构建基于动态市场力量博弈的交易系统.md": {
+    "id": "69a478c74738a1b24612506d",
+    "url": "https://victorjia.hashnode.dev/breaking-free-from-traditional-trading-shackles-building-a-trading-system-based-on-dynamic-market-force-dynamics",
+    "title": "Breaking Free from Traditional Trading Shackles — Building a Trading System Based on Dynamic Market Force Dynamics",
+    "published_at": "2026-03-02 00:35:03"
+  },
+  "translated/en/突破与反转/限价与突破_信号新理解_认知闭合需要.md": {
+    "id": "69a478cd11d358fb45a86445",
+    "url": "https://victorjia.hashnode.dev/limit-orders-and-breakouts-new-understanding-of-signals-cognitive-closure-needs",
+    "title": "Limit Orders and Breakouts, New Understanding of Signals, Cognitive Closure Needs",
+    "published_at": "2026-03-02 00:35:09"
+  },
+  "translated/en/认知杂文/播客.md": {
+    "id": "69a478d311d358fb45a86447",
+    "url": "https://victorjia.hashnode.dev/podcast",
+    "title": "Podcast",
+    "published_at": "2026-03-02 00:35:15"
+  },
+  "translated/en/认知杂文/深度_中华文明的星空源头与价格行为学交易.md": {
+    "id": "69a478da4738a1b24612506f",
+    "url": "https://victorjia.hashnode.dev/the-celestial-origins-of-chinese-civilization-and-price-action-trading",
+    "title": "The Celestial Origins of Chinese Civilization and Price Action Trading",
+    "published_at": "2026-03-02 00:35:22"
+  },
+  "translated/en/认知杂文/读史书的误区.md": {
+    "id": "69a478e011d358fb45a86449",
+    "url": "https://victorjia.hashnode.dev/today-lets-step-outside-trading-and-explore-the-boundless-world-of-literature-history-and-philosophical-reflection",
+    "title": "Today, let's step outside trading and explore the boundless world of literature, history, and philosophical reflection.",
+    "published_at": "2026-03-02 00:35:28"
+  },
+  "translated/en/认知杂文/输出100个.md": {
+    "id": "69a478e611d358fb45a8644b",
+    "url": "https://victorjia.hashnode.dev/output-100",
+    "title": "Output 100",
+    "published_at": "2026-03-02 00:35:34"
+  },
+  "translated/en/认知杂文/非要顿悟_还非要在别处顿悟_.md": {
+    "id": "69a478ec4738a1b246125071",
+    "url": "https://victorjia.hashnode.dev/must-you-have-an-epiphany-must-it-come-from-somewhere-else",
+    "title": "Must You Have an Epiphany? Must It Come from Somewhere Else?",
+    "published_at": "2026-03-02 00:35:40"
+  },
+  "translated/en/趋势/交易问答系列_01_交易区间内的多头趋势段.md": {
+    "id": "69a478f24738a1b246125073",
+    "url": "https://victorjia.hashnode.dev/trading-qa-series-01-bull-trend-legs-within-a-trading-range",
+    "title": "Trading Q&A Series: 01 Bull Trend Legs Within a Trading Range",
+    "published_at": "2026-03-02 00:35:46"
+  },
+  "translated/en/趋势/价格行为学_4CC_微通道.md": {
+    "id": "69a478f811d358fb45a8644d",
+    "url": "https://victorjia.hashnode.dev/price-action-4cc-microchannel",
+    "title": "Price Action: 4CC Microchannel",
+    "published_at": "2026-03-02 00:35:52"
+  },
+  "translated/en/趋势/价格行为学_主要趋势反转MTR（一）.md": {
+    "id": "69a478fe4738a1b246125075",
+    "url": "https://victorjia.hashnode.dev/price-action-major-trend-reversal-mtr-part-1",
+    "title": "Price Action: Major Trend Reversal MTR (Part 1)",
+    "published_at": "2026-03-02 00:35:58"
+  },
+  "translated/en/趋势/价格行为学_主要趋势反转（总结）.md": {
+    "id": "69a4790411d358fb45a8644f",
+    "url": "https://victorjia.hashnode.dev/price-action-major-trend-reversal-summary",
+    "title": "Price Action: Major Trend Reversal (Summary)",
+    "published_at": "2026-03-02 00:36:04"
+  },
+  "translated/en/趋势/价格行为学_主要趋势反转（补充）.md": {
+    "id": "69a4790a971294522afdc29e",
+    "url": "https://victorjia.hashnode.dev/price-action-major-trend-reversal-supplement",
+    "title": "Price Action: Major Trend Reversal (Supplement)",
+    "published_at": "2026-03-02 00:36:11"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑多头通道（一）.md": {
+    "id": "69a4791154664a9370f0994a",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bull-channels-part-1-1",
+    "title": "Price Action: Trading Tight Bull Channels (Part 1)",
+    "published_at": "2026-03-02 00:36:17"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑多头通道（三）.md": {
+    "id": "69a4791754664a9370f0994c",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bull-channels-part-3",
+    "title": "Price Action: Trading Tight Bull Channels (Part 3)",
+    "published_at": "2026-03-02 00:36:23"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑多头通道（二）.md": {
+    "id": "69a4791d54664a9370f0994e",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bull-channels-part-2",
+    "title": "Price Action: Trading Tight Bull Channels (Part 2)",
+    "published_at": "2026-03-02 00:36:29"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑空头通道（一）.md": {
+    "id": "69a4792354664a9370f09950",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bear-channels-part-1",
+    "title": "Price Action: Trading Tight Bear Channels (Part 1)",
+    "published_at": "2026-03-02 00:36:36"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑空头通道（三）.md": {
+    "id": "69a4792a4738a1b246125077",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bear-channels-part-3",
+    "title": "Price Action: Trading Tight Bear Channels (Part 3)",
+    "published_at": "2026-03-02 00:36:42"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑空头通道（二）.md": {
+    "id": "69a479304738a1b246125079",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bear-channels-part-2",
+    "title": "Price Action: Trading Tight Bear Channels (Part 2)",
+    "published_at": "2026-03-02 00:36:48"
+  },
+  "translated/en/趋势/价格行为学_交易紧凑空头通道（四）.md": {
+    "id": "69a47936971294522afdc2a0",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bear-channels-part-4",
+    "title": "Price Action: Trading Tight Bear Channels (Part 4)",
+    "published_at": "2026-03-02 00:36:54"
+  },
+  "translated/en/趋势/价格行为学_价格行为学_交易紧凑空头通道（五）.md": {
+    "id": "69a4793c54664a9370f09952",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-tight-bear-channels-part-5",
+    "title": "Price Action: Trading Tight Bear Channels (Part 5)",
+    "published_at": "2026-03-02 00:37:00"
+  },
+  "translated/en/趋势/价格行为学_多头宽通道交易方法（一）.md": {
+    "id": "69a4794254664a9370f09954",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bull-channels-part-1",
+    "title": "Price Action: Trading Broad Bull Channels (Part 1)",
+    "published_at": "2026-03-02 00:37:06"
+  },
+  "translated/en/趋势/价格行为学_多头宽通道交易方法（三）.md": {
+    "id": "69a479484738a1b24612507b",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bull-channels-part-3",
+    "title": "Price Action: Trading Broad Bull Channels (Part 3)",
+    "published_at": "2026-03-02 00:37:13"
+  },
+  "translated/en/趋势/价格行为学_多头宽通道交易方法（二）.md": {
+    "id": "69a4794f971294522afdc2a2",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bull-channels-part-2",
+    "title": "Price Action: Trading Broad Bull Channels (Part 2)",
+    "published_at": "2026-03-02 00:37:19"
+  },
+  "translated/en/趋势/价格行为学_多头宽通道交易方法（五）.md": {
+    "id": "69a479554738a1b24612507d",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bull-channels-part-5",
+    "title": "Price Action: Trading Broad Bull Channels (Part 5)",
+    "published_at": "2026-03-02 00:37:25"
+  },
+  "translated/en/趋势/价格行为学_多头宽通道交易方法（四）.md": {
+    "id": "69a4795b971294522afdc2a4",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bull-channels-part-4",
+    "title": "Price Action: Trading Broad Bull Channels (Part 4)",
+    "published_at": "2026-03-02 00:37:31"
+  },
+  "translated/en/趋势/价格行为学_如何理解趋势线.md": {
+    "id": "69a47968971294522afdc2a6",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trendlines",
+    "title": "Price Action: How to Understand Trendlines",
+    "published_at": "2026-03-02 00:37:44"
+  },
+  "translated/en/趋势/价格行为学_如何理解逆势微通道.md": {
+    "id": "69a4796e971294522afdc2a8",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-counter-trend-microchannels",
+    "title": "Price Action: How to Understand Counter-Trend Microchannels",
+    "published_at": "2026-03-02 00:37:50"
+  },
+  "translated/en/趋势/价格行为学_强趋势.md": {
+    "id": "69a479744738a1b24612507f",
+    "url": "https://victorjia.hashnode.dev/price-action-strong-trends",
+    "title": "Price Action: Strong Trends",
+    "published_at": "2026-03-02 00:37:56"
+  },
+  "translated/en/趋势/价格行为学_微型通道（一）.md": {
+    "id": "69a4797954664a9370f09956",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-1",
+    "title": "Price Action: Microchannels (Part 1)",
+    "published_at": "2026-03-02 00:38:02"
+  },
+  "translated/en/趋势/价格行为学_微型通道（七）.md": {
+    "id": "69a4798054664a9370f09958",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-7",
+    "title": "Price Action: Microchannels (Part 7)",
+    "published_at": "2026-03-02 00:38:08"
+  },
+  "translated/en/趋势/价格行为学_微型通道（三）.md": {
+    "id": "69a47986f7816f790257a438",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-3",
+    "title": "Price Action: Microchannels (Part 3)",
+    "published_at": "2026-03-02 00:38:14"
+  },
+  "translated/en/趋势/价格行为学_微型通道（二）.md": {
+    "id": "69a4798cf7816f790257a43a",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-2",
+    "title": "Price Action: Microchannels (Part 2)",
+    "published_at": "2026-03-02 00:38:20"
+  },
+  "translated/en/趋势/价格行为学_微型通道（五）.md": {
+    "id": "69a4799229fb65868d12920b",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-5",
+    "title": "Price Action: Microchannels (Part 5)",
+    "published_at": "2026-03-02 00:38:26"
+  },
+  "translated/en/趋势/价格行为学_微型通道（八）.md": {
+    "id": "69a47998f7816f790257a43c",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-8",
+    "title": "Price Action: Microchannels (Part 8)",
+    "published_at": "2026-03-02 00:38:32"
+  },
+  "translated/en/趋势/价格行为学_微型通道（六）.md": {
+    "id": "69a4799f29fb65868d12920d",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-6",
+    "title": "Price Action: Microchannels (Part 6)",
+    "published_at": "2026-03-02 00:38:39"
+  },
+  "translated/en/趋势/价格行为学_微型通道（四）.md": {
+    "id": "69a479a5f7816f790257a43e",
+    "url": "https://victorjia.hashnode.dev/price-action-microchannels-part-4",
+    "title": "Price Action: Microchannels (Part 4)",
+    "published_at": "2026-03-02 00:38:45"
+  },
+  "translated/en/趋势/价格行为学_空头宽通道交易方法（一）.md": {
+    "id": "69a479ab29fb65868d12920f",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bear-channels-part-1",
+    "title": "Price Action: Trading Broad Bear Channels (Part 1)",
+    "published_at": "2026-03-02 00:38:51"
+  },
+  "translated/en/趋势/价格行为学_空头宽通道交易方法（三）.md": {
+    "id": "69a479b129fb65868d129211",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bear-channels-part-3",
+    "title": "Price Action: Trading Broad Bear Channels (Part 3)",
+    "published_at": "2026-03-02 00:38:57"
+  },
+  "translated/en/趋势/价格行为学_空头宽通道交易方法（二）.md": {
+    "id": "69a479b729fb65868d129213",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bear-channels-part-2",
+    "title": "Price Action: Trading Broad Bear Channels (Part 2)",
+    "published_at": "2026-03-02 00:39:03"
+  },
+  "translated/en/趋势/价格行为学_空头宽通道交易方法（四）.md": {
+    "id": "69a479bd29fb65868d129215",
+    "url": "https://victorjia.hashnode.dev/price-action-trading-broad-bear-channels-part-4",
+    "title": "Price Action: Trading Broad Bear Channels (Part 4)",
+    "published_at": "2026-03-02 00:39:09"
+  },
+  "translated/en/趋势/价格行为学_窄通道.md": {
+    "id": "69a479c3971294522afdc2aa",
+    "url": "https://victorjia.hashnode.dev/price-action-narrow-channels",
+    "title": "Price Action: Narrow Channels",
+    "published_at": "2026-03-02 00:39:15"
+  },
+  "translated/en/趋势/价格行为学_第二次回调与趋势确认.md": {
+    "id": "69a479c9f7816f790257a440",
+    "url": "https://victorjia.hashnode.dev/price-action-the-second-pullback-and-trend-confirmation",
+    "title": "Price Action: The Second Pullback and Trend Confirmation",
+    "published_at": "2026-03-02 00:39:21"
+  },
+  "translated/en/趋势/价格行为学_趋势K（一）.md": {
+    "id": "69a479cf971294522afdc2ac",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-bars-part-1",
+    "title": "Price Action: Trend Bars (Part 1)",
+    "published_at": "2026-03-02 00:39:27"
+  },
+  "translated/en/趋势/价格行为学_趋势加速与最后的冲刺.md": {
+    "id": "69a479d5f7816f790257a446",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-acceleration-and-the-final-sprint",
+    "title": "Price Action: Trend Acceleration and the Final Sprint",
+    "published_at": "2026-03-02 00:39:33"
+  },
+  "translated/en/趋势/价格行为学_趋势后期进场（一）.md": {
+    "id": "69a479db29fb65868d129217",
+    "url": "https://victorjia.hashnode.dev/price-action-late-trend-entries-part-1",
+    "title": "Price Action: Late Trend Entries (Part 1)",
+    "published_at": "2026-03-02 00:39:39"
+  },
+  "translated/en/趋势/价格行为学_趋势后期进场（二）.md": {
+    "id": "69a479e129fb65868d129219",
+    "url": "https://victorjia.hashnode.dev/price-action-late-trend-entries-part-2",
+    "title": "Price Action: Late Trend Entries (Part 2)",
+    "published_at": "2026-03-02 00:39:45"
+  },
+  "translated/en/趋势/价格行为学_趋势末期如何及时退出.md": {
+    "id": "69a479e729fb65868d12921b",
+    "url": "https://victorjia.hashnode.dev/price-action-how-to-exit-in-time-at-the-end-of-a-trend",
+    "title": "Price Action: How to Exit in Time at the End of a Trend",
+    "published_at": "2026-03-02 00:39:51"
+  },
+  "translated/en/趋势/价格行为学_趋势末期的楔形与反转.md": {
+    "id": "69a479ed29fb65868d12921d",
+    "url": "https://victorjia.hashnode.dev/price-action-wedges-and-reversals-at-the-end-of-trends",
+    "title": "Price Action: Wedges and Reversals at the End of Trends",
+    "published_at": "2026-03-02 00:39:57"
+  },
+  "translated/en/趋势/价格行为学_趋势的延续与反转（一）.md": {
+    "id": "69a479f329fb65868d12921f",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-continuation-and-reversal-part-1",
+    "title": "Price Action: Trend Continuation and Reversal (Part 1)",
+    "published_at": "2026-03-02 00:40:03"
+  },
+  "translated/en/趋势/价格行为学_趋势的延续与反转（二）.md": {
+    "id": "69a479f929fb65868d129221",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-continuation-and-reversal-part-2",
+    "title": "Price Action: Trend Continuation and Reversal (Part 2)",
+    "published_at": "2026-03-02 00:40:10"
+  },
+  "translated/en/趋势/价格行为学_趋势的推动.md": {
+    "id": "69a479fff7816f790257a44a",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-thrusts",
+    "title": "Price Action: Trend Thrusts",
+    "published_at": "2026-03-02 00:40:16"
+  },
+  "translated/en/趋势/价格行为学_趋势进入交易区间的常见信号.md": {
+    "id": "69a47a05f7816f790257a44c",
+    "url": "https://victorjia.hashnode.dev/price-action-common-signals-of-a-trend-entering-a-trading-range",
+    "title": "Price Action: Common Signals of a Trend Entering a Trading Range",
+    "published_at": "2026-03-02 00:40:21"
+  },
+  "translated/en/趋势/价格行为学_趋势进入交易区间的常见信号（一）.md": {
+    "id": "69a47a0cf7816f790257a44e",
+    "url": "https://victorjia.hashnode.dev/price-action-common-signals-of-a-trend-entering-a-trading-range-part-1",
+    "title": "Price Action: Common Signals of a Trend Entering a Trading Range (Part 1)",
+    "published_at": "2026-03-02 00:40:28"
+  },
+  "translated/en/趋势/价格行为学_趋势通道（一）.md": {
+    "id": "69a47a12971294522afdc2ae",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-channels-part-1",
+    "title": "Price Action: Trend Channels (Part 1)",
+    "published_at": "2026-03-02 00:40:34"
+  },
+  "translated/en/趋势/价格行为学_趋势通道（二）.md": {
+    "id": "69a47a18971294522afdc2b0",
+    "url": "https://victorjia.hashnode.dev/price-action-trend-channels-part-2",
+    "title": "Price Action: Trend Channels (Part 2)",
+    "published_at": "2026-03-02 00:40:40"
+  },
+  "translated/en/趋势/价格行为学_跳空_缺口与趋势动能的本质理解.md": {
+    "id": "69a47a1e971294522afdc2b2",
+    "url": "https://victorjia.hashnode.dev/price-action-gaps-and-the-essential-understanding-of-trend-momentum",
+    "title": "Price Action: Gaps and the Essential Understanding of Trend Momentum",
+    "published_at": "2026-03-02 00:40:46"
+  },
+  "translated/en/趋势/价格行为学实盘应用_强趋势下的1_2盈亏比实操策略.md": {
+    "id": "69a47a24f7816f790257a450",
+    "url": "https://victorjia.hashnode.dev/price-action-live-application-12-risk-reward-ratio-strategy-in-a-strong-trend",
+    "title": "Price Action Live Application: 1:2 Risk-Reward Ratio Strategy in a Strong Trend",
+    "published_at": "2026-03-02 00:40:52"
+  },
+  "translated/en/趋势/如何顺势_基于Leg与反转失败的趋势交易系统.md": {
+    "id": "69a47a2a4738a1b246125083",
+    "url": "https://victorjia.hashnode.dev/how-to-trade-with-the-trend-a-trend-trading-system-based-on-legs-and-failed-reversals",
+    "title": "How to Trade with the Trend: A Trend Trading System Based on Legs and Failed Reversals",
+    "published_at": "2026-03-02 00:40:58"
+  },
+  "translated/en/趋势/日线_小时线双级别趋势交易体系.md": {
+    "id": "69a47a30971294522afdc2b4",
+    "url": "https://victorjia.hashnode.dev/daily-hourly-dual-timeframe-trend-trading-system",
+    "title": "Daily-Hourly Dual-Timeframe Trend Trading System",
+    "published_at": "2026-03-02 00:41:04"
+  },
+  "translated/en/趋势/系统化仓位管理策略（适用于日线趋势判断___小级别优化进场）.md": {
+    "id": "69a47a36971294522afdc2b6",
+    "url": "https://victorjia.hashnode.dev/systematic-position-size-management-strategy-applicable-to-daily-trend-determination-lower-timeframe-optimized-entry",
+    "title": "Systematic Position Size Management Strategy (Applicable to Daily Trend Determination + Lower Timeframe Optimized Entry)",
+    "published_at": "2026-03-02 00:41:10"
+  },
+  "translated/en/趋势/读懂K线_趋势判断与小资金增长策略.md": {
+    "id": "69a47a3c971294522afdc2b8",
+    "url": "https://victorjia.hashnode.dev/reading-bars-trend-identification-and-small-account-growth-strategies",
+    "title": "Reading Bars: Trend Identification and Small Account Growth Strategies",
+    "published_at": "2026-03-02 00:41:16"
+  },
+  "translated/en/趋势/趋势交易体系_缺口_反转与均线背离的实战策略.md": {
+    "id": "69a47a42971294522afdc2ba",
+    "url": "https://victorjia.hashnode.dev/trend-trading-system-practical-strategies-for-gaps-reversals-and-moving-average-divergence",
+    "title": "Trend Trading System: Practical Strategies for Gaps, Reversals, and Moving Average Divergence",
+    "published_at": "2026-03-02 00:41:22"
+  },
+  "translated/en/趋势/趋势交易必备知识_从趋势定义到实战准则.md": {
+    "id": "69a47a48f7816f790257a452",
+    "url": "https://victorjia.hashnode.dev/essential-knowledge-for-trend-trading-from-trend-definition-to-practical-guidelines",
+    "title": "Essential Knowledge for Trend Trading: From Trend Definition to Practical Guidelines",
+    "published_at": "2026-03-02 00:41:28"
+  },
+  "translated/en/趋势/趋势日_是最容易亏钱的日子.md": {
+    "id": "69a47a4e971294522afdc2bc",
+    "url": "https://victorjia.hashnode.dev/trend-days-are-the-easiest-days-to-lose-money",
+    "title": "Trend Days Are the Easiest Days to Lose Money",
+    "published_at": "2026-03-02 00:41:35"
+  },
+  "translated/en/趋势/趋势线破位与假突破.md": {
+    "id": "69a47a54f7816f790257a454",
+    "url": "https://victorjia.hashnode.dev/trendline-breaks-and-false-breakouts",
+    "title": "Trendline Breaks and False Breakouts",
+    "published_at": "2026-03-02 00:41:41"
+  },
+  "translated/en/趋势/趋势走弱_从止损单到限价单的策略切换.md": {
+    "id": "69a47a5bf7816f790257a456",
+    "url": "https://victorjia.hashnode.dev/trend-weakening-strategy-switch-from-stop-orders-to-limit-orders",
+    "title": "Trend Weakening: Strategy Switch from Stop Orders to Limit Orders",
+    "published_at": "2026-03-02 00:41:47"
+  }
+}
