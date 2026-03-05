@@ -64,10 +64,10 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | related_to | MTR 完成后目标用 Measured Move 计算 |
-| M2_SPIKE_CHANNEL | related_to | Spike 中的 Measuring Gap 用于计算 MM 目标；BO Point to Extreme 度量适用于 Spike and Channel |
-| M3_TRADING_RANGE | related_to | 到达 MM 目标后常出现 Trading Range |
-| M5_SIGNAL_BAR | depends_on | MM 入场需要 H2/L2 Signal Bar 在 C 点附近确认 |
+| [M1_MTR](./hh-mtr-top-guide.md) |related_to|MTR 完成后目标用 Measured Move 计算|
+| [M2_SPIKE_CHANNEL](./bear-channel-breakout-guide.md) |related_to|Spike 中的 Measuring Gap 用于计算 MM 目标；BO Point to Extreme 度量适用于 Spike and Channel|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|到达 MM 目标后常出现 Trading Range|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|MM 入场需要 H2/L2 Signal Bar 在 C 点附近确认|
 | M6_H2_L2 | confirms | H2 的止盈目标就是 MM；H2 出现在 C 点附近 |
 
 ---

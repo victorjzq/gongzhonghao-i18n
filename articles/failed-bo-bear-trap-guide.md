@@ -66,10 +66,10 @@ Surprisingly big BO below Wedge bottom → 2nd leg down 只有 1 bar → 反转�
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | related_to | 60% 的 MTR 最终变成 TR |
-| M2_SPIKE_CHANNEL | related_to | S&C 趋势 >60% 最终演变为 TR |
-| M4_MEASURED_MOVE | confirms | Valid BO + pullback → 60% 概率 Measured Move |
-| M5_SIGNAL_BAR | depends_on | BO 和 Failed BO 入场需要好的 Signal Bar |
+| [M1_MTR](./hh-mtr-top-guide.md) |related_to|60% 的 MTR 最终变成 TR|
+| [M2_SPIKE_CHANNEL](./bear-channel-breakout-guide.md) |related_to|S&C 趋势 >60% 最终演变为 TR|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |confirms|Valid BO + pullback → 60% 概率 Measured Move|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|BO 和 Failed BO 入场需要好的 Signal Bar|
 
 ---
 

@@ -70,10 +70,10 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | related_to | Spike 后进入 Channel 可能演变为 MTR |
-| M3_TRADING_RANGE | related_to | S&C 趋势 >60% 最终演变为 TR |
-| M4_MEASURED_MOVE | confirms | 成功的 Channel BO 用 Measured Move 计算目标 |
-| M5_SIGNAL_BAR | depends_on | Channel 入场和 Wedge 反转需要好的 Signal Bar |
+| [M1_MTR](./hh-mtr-top-guide.md) |related_to|Spike 后进入 Channel 可能演变为 MTR|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|S&C 趋势 >60% 最终演变为 TR|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |confirms|成功的 Channel BO 用 Measured Move 计算目标|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|Channel 入场和 Wedge 反转需要好的 Signal Bar|
 
 ---
 

@@ -98,12 +98,12 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | related_to | MTR完成后AI翻转，H2/L2方向跟随新AI |
-| M3_TRADING_RANGE | related_to | TR中DT=L2, DB=H2等价关系 |
-| M4_MEASURED_MOVE | confirms | H2/L2目标可用Measured Move计算 |
-| M5_SIGNAL_BAR | depends_on | H2/L2入场需要合格信号棒 |
-| M6_ENTRY_EXIT | related_to | H2是入场规则的核心设置之一 |
-| M8_UNIFIED | related_to | H2/L2在统一手册第四层详细定义 |
+| [M1_MTR](./hh-mtr-top-guide.md) |related_to|MTR完成后AI翻转，H2/L2方向跟随新AI|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|TR中DT=L2, DB=H2等价关系|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |confirms|H2/L2目标可用Measured Move计算|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|H2/L2入场需要合格信号棒|
+| [M6_ENTRY_EXIT](./always-in-supreme-guide.md) |related_to|H2是入场规则的核心设置之一|
+| [M8_UNIFIED](./always-in-direction-guide.md) |related_to|H2/L2在统一手册第四层详细定义|
 
 ---
 

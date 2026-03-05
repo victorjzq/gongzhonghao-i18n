@@ -63,10 +63,10 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | depends_on | AI反向且无20 Gap Bar时需等MTR完成 |
-| M5_SIGNAL_BAR | depends_on | 所有入场都需要合格的信号棒 |
-| M7_HIGH2 | related_to | H2是核心入场设置之一 |
-| M8_UNIFIED | related_to | AI方向判断的完整规则在统一手册中 |
+| [M1_MTR](./hh-mtr-top-guide.md) |depends_on|AI反向且无20 Gap Bar时需等MTR完成|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|所有入场都需要合格的信号棒|
+| [M7_HIGH2](./h2-bull-flag-guide.md) |related_to|H2是核心入场设置之一|
+| [M8_UNIFIED](./always-in-direction-guide.md) |related_to|AI方向判断的完整规则在统一手册中|
 
 ---
 

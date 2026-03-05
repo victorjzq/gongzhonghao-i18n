@@ -70,10 +70,10 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | confirms | MTR 入场需要好的 Signal Bar 确认 |
-| M2_SPIKE_CHANNEL | related_to | Spike 后的 Channel 中 Signal Bar 质量影响入场决策 |
-| M3_TRADING_RANGE | related_to | TR 边界的 Signal Bar 用于判断突破方向 |
-| M4_MEASURED_MOVE | related_to | Signal Bar 入场后用 MM 计算止盈目标 |
+| [M1_MTR](./hh-mtr-top-guide.md) |confirms|MTR 入场需要好的 Signal Bar 确认|
+| [M2_SPIKE_CHANNEL](./bear-channel-breakout-guide.md) |related_to|Spike 后的 Channel 中 Signal Bar 质量影响入场决策|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|TR 边界的 Signal Bar 用于判断突破方向|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |related_to|Signal Bar 入场后用 MM 计算止盈目标|
 | M6_H2_L2 | depends_on | H2/L2 本质上是特定 context 下的 Signal Bar |
 
 ---

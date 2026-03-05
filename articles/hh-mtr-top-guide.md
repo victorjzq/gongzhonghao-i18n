@@ -79,10 +79,10 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M2_SPIKE_CHANNEL | related_to | Spike后进入Channel可能演变为MTR |
-| M3_TRADING_RANGE | related_to | 60%的MTR最终变成TR |
-| M4_MEASURED_MOVE | confirms | MTR完成后目标用Measured Move计算 |
-| M5_SIGNAL_BAR | depends_on | MTR入场需要好的Signal Bar |
+| [M2_SPIKE_CHANNEL](./bear-channel-breakout-guide.md) |related_to|Spike后进入Channel可能演变为MTR|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|60%的MTR最终变成TR|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |confirms|MTR完成后目标用Measured Move计算|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|MTR入场需要好的Signal Bar|
 
 ---
 

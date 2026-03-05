@@ -53,13 +53,13 @@ generated: "2026-03-05"
 
 | 关联模块 | 关系 | 说明 |
 |----------|------|------|
-| M1_MTR | related_to | 第五层DT/DB判断中MTR是反转条件的核心组成 |
-| M2_SPIKE_CHANNEL | related_to | 第一层市场状态的Spike→Channel转换 |
-| M3_TRADING_RANGE | related_to | 第一层TR识别 + 80%突破失败规则 |
-| M4_MEASURED_MOVE | confirms | 第三层Leg等长规则 + Phase 4目标计算 |
-| M5_SIGNAL_BAR | depends_on | 第六层证据链中信号棒质量是关键环节 |
-| M6_ENTRY_EXIT | depends_on | 入场/离场的具体执行规则 |
-| M7_HIGH2 | depends_on | 第四层H2/L2定义的详细实现 |
+| [M1_MTR](./hh-mtr-top-guide.md) |related_to|第五层DT/DB判断中MTR是反转条件的核心组成|
+| [M2_SPIKE_CHANNEL](./bear-channel-breakout-guide.md) |related_to|第一层市场状态的Spike→Channel转换|
+| [M3_TRADING_RANGE](./bear-bo-from-tr-guide.md) |related_to|第一层TR识别 + 80%突破失败规则|
+| [M4_MEASURED_MOVE](./mm-2nd-leg-trap-guide.md) |confirms|第三层Leg等长规则 + Phase 4目标计算|
+| [M5_SIGNAL_BAR](./bear-signal-bar-guide.md) |depends_on|第六层证据链中信号棒质量是关键环节|
+| [M6_ENTRY_EXIT](./always-in-supreme-guide.md) |depends_on|入场/离场的具体执行规则|
+| [M7_HIGH2](./h2-bull-flag-guide.md) |depends_on|第四层H2/L2定义的详细实现|
 
 ---
 
