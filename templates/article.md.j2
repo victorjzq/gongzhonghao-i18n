@@ -1,0 +1,143 @@
+---
+title: "{{ seo.title }}"
+slug: "{{ seo.slug }}"
+meta_description: "{{ seo.meta_description }}"
+cluster: "{{ cluster.name }}"
+module_id: "{{ module.module_id }}"
+pattern_id: "{{ pattern.pattern_id }}"
+direction: "{{ pattern.direction }}"
+generated: "{{ generated_at }}"
+---
+
+# {{ pattern.name }}
+
+> {{ pattern.description }}
+
+---
+
+## 什么是 {{ pattern.name }}？
+
+{{ pattern.description }}
+
+{% if pattern.subtypes %}
+### 子类型一览
+
+| 子类型 | 说明 | 特征 |
+|--------|------|------|
+{% for st in pattern.subtypes %}
+| {{ st.name }} | {{ st.description }} | {{ st.distinguishing_features | join(', ') }} |
+{% endfor %}
+{% endif %}
+
+---
+
+## 识别规则图解
+
+{% if pattern.setup_rules %}
+### 前置条件（Setup Rules）
+
+{% for rule in pattern.setup_rules %}
+{{ loop.index }}. **{{ rule.rule_id }}**: {{ rule.text }}
+{% if rule.parameters %}
+   - 参数: {% for k, v in rule.parameters.items() %}{{ k }}={{ v }}{% if not loop.last %}, {% endif %}{% endfor %}
+
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if pattern.entry_rules %}
+### 触发条件（Entry Rules）
+
+{% for rule in pattern.entry_rules %}
+{{ loop.index }}. **{{ rule.rule_id }}**: {{ rule.text }}
+{% endfor %}
+{% endif %}
+
+---
+
+## 入场与出场逻辑
+
+{% if pattern.entry_rules %}
+### 入场规则
+
+{% for rule in pattern.entry_rules %}
+- **{{ rule.rule_id }}**: {{ rule.text }}
+{% endfor %}
+{% endif %}
+
+{% if pattern.exit_rules %}
+### 止损止盈（Exit Rules）
+
+{% for rule in pattern.exit_rules %}
+- **{{ rule.rule_id }}**: {{ rule.text }}
+{% endfor %}
+{% endif %}
+
+---
+
+## 概率与期望值
+
+{% if pattern.probability %}
+| 指标 | 数值 |
+|------|------|
+| 预期胜率 | {{ pattern.probability.success_rate }} |
+| 备注 | {{ pattern.probability.note }} |
+{% endif %}
+
+{% if probability_table %}
+### 交易方式对比
+
+| 交易方式 | 市场环境 | 预期胜率 | 建议盈亏比 |
+|----------|----------|----------|-----------|
+{% for row in probability_table %}
+| {{ row.style }} | {{ row.context }} | {{ row.win_rate }} | {{ row.rr }} |
+{% endfor %}
+{% endif %}
+
+---
+
+{% if pattern.rules %}
+## 补充规则
+
+{% for rule in pattern.rules %}
+- **{{ rule.rule_id }}**: {{ rule.text }}
+{% endfor %}
+
+---
+{% endif %}
+
+{% if cross_references %}
+## 关联形态
+
+| 关联模块 | 关系 | 说明 |
+|----------|------|------|
+{% for ref in cross_references %}
+| {{ ref.module_id }} | {{ ref.relationship }} | {{ ref.note }} |
+{% endfor %}
+{% endif %}
+
+---
+
+## FAQ
+
+**Q1: {{ pattern.name }} 的信号K线如何判断？**
+
+根据规则，信号K线需要满足方向性（阳线/阴线）、收盘位置（上/下半部）和实体饱满度等条件。具体请参考上方触发条件。
+
+**Q2: {{ pattern.name }} 失败后怎么办？**
+
+{% if pattern.direction == 'long' %}
+H2 失败（被止损）后应等待 H3（楔形底），H3 的概率通常更高。
+{% elif pattern.direction == 'short' %}
+L2 失败后应等待 L3（楔形顶），L3 出现时概率更高。
+{% else %}
+失败后应等待下一个更高级别的确认信号，避免连续止损。
+{% endif %}
+
+**Q3: {{ pattern.name }} 适用于哪些市场？**
+
+Price Action 反映的是人类交易心理，因此 {{ pattern.name }} 适用于股票、期货、外汇、加密货币等所有流动性充足的市场。
+
+---
+
+*本文基于 Al Brooks Price Action 体系自动生成，数据来源: {{ module.source }}*
