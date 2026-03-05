@@ -623,14 +623,6 @@
     "title": "**The key to trend trading lies in identifying whether the market is in a strong state (Always In) and fully utilizing unfilled gaps for trading.**",
     "published_at": "2026-03-02 00:10:18"
   },
-  "translated/en/交易策略/交易周转率_为何高频周转是交易成功的关键_.md": {
-    "error": "Variable \"$input\" got invalid value \"**Many traders tend to focus on achieving a high risk-reward ratio on individual trades, hoping to earn substantial returns through long-term positions. However, the cost of this approach is that capital remains tied up for extended periods, profit cycles lengthen, and psychological pressure increases. In contrast, a \"quick in, quick out\" strategy that emphasizes trading turnover rate can effectively overcome these problems.**\" at \"input.title\". Must be no more than 250 characters in length",
-    "failed_at": "2026-03-02 00:10:24"
-  },
-  "translated/en/交易策略/价格与均线的距离_动能与价值的博弈.md": {
-    "error": "Variable \"$input\" got invalid value \"**In market trading, when price moves far from the moving average (MA), it often signals the coexistence of opportunity and risk. The moving average represents the market's generally accepted value center. When price moves away from the MA, how do we determine the direction of the market?**\" at \"input.title\". Must be no more than 250 characters in length",
-    "failed_at": "2026-03-02 00:10:30"
-  },
   "translated/en/交易策略/价格行为学_如何理解交易系统.md": {
     "id": "69a4730c4738a1b246124ff4",
     "url": "https://victorjia.hashnode.dev/price-action-how-to-understand-trading-systems",
@@ -1128,54 +1120,6 @@
     "url": "https://victorjia.hashnode.dev/price-action-support-and-resistance",
     "title": "Price Action: Support and Resistance",
     "published_at": "2026-03-02 00:18:56"
-  },
-  "translated/en/其他概念/价格行为学_支撑阻力的失效.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:01"
-  },
-  "translated/en/其他概念/价格行为学_支撑阻力的理解.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:06"
-  },
-  "translated/en/其他概念/价格行为学_无尽回调（Endless_Pullback）.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:11"
-  },
-  "translated/en/其他概念/价格行为学_每笔走势都是在测试.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:30"
-  },
-  "translated/en/其他概念/价格行为学_永远多头（Always_In_Long）交易方法.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:35"
-  },
-  "translated/en/其他概念/价格行为学_理解市场周期.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:19:40"
-  },
-  "translated/en/其他概念/价格行为学_目标与路径.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:21:31"
-  },
-  "translated/en/其他概念/价格行为学_第一次回撤.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:21:37"
-  },
-  "translated/en/其他概念/价格行为学_第一次回调.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:21:42"
-  },
-  "translated/en/其他概念/价格行为学_试探性交易.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:21:47"
-  },
-  "translated/en/其他概念/价格行为学_逐K复盘的目标.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:21:52"
-  },
-  "translated/en/其他概念/价格行为学漫画（01）.md": {
-    "error": "HTTPSConnectionPool(host='gql.hashnode.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gql.hashnode.com', port=443): Failed to resolve 'gql.hashnode.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
-    "failed_at": "2026-03-02 00:25:09"
   },
   "translated/en/其他概念/借鉴_Gabriel_的方法学习价格行为.md": {
     "id": "69a4767c11d358fb45a86429",
@@ -2052,5 +1996,89 @@
     "url": "https://victorjia.hashnode.dev/trend-weakening-strategy-switch-from-stop-orders-to-limit-orders",
     "title": "Trend Weakening: Strategy Switch from Stop Orders to Limit Orders",
     "published_at": "2026-03-02 00:41:47"
+  },
+  "translated/en/其他概念/价格行为学_支撑阻力的失效.md": {
+    "id": "69a95c975155ac50107d7e6d",
+    "url": "https://victorjia.hashnode.dev/price-action-when-support-and-resistance-fail",
+    "title": "Price Action: When Support and Resistance Fail",
+    "published_at": "2026-03-05 17:36:07"
+  },
+  "translated/en/其他概念/价格行为学_支撑阻力的理解.md": {
+    "id": "69a95c9d5155ac50107d7e6f",
+    "url": "https://victorjia.hashnode.dev/price-action-understanding-support-and-resistance",
+    "title": "Price Action: Understanding Support and Resistance",
+    "published_at": "2026-03-05 17:36:13"
+  },
+  "translated/en/其他概念/价格行为学_无尽回调（Endless_Pullback）.md": {
+    "id": "69a95ca36188af210d66c5ee",
+    "url": "https://victorjia.hashnode.dev/price-action-endless-pullback",
+    "title": "Price Action: Endless Pullback",
+    "published_at": "2026-03-05 17:36:19"
+  },
+  "translated/en/其他概念/价格行为学_每笔走势都是在测试.md": {
+    "id": "69a95ca9486887d3446457ba",
+    "url": "https://victorjia.hashnode.dev/price-action-every-move-is-a-test",
+    "title": "Price Action: Every Move Is a Test",
+    "published_at": "2026-03-05 17:36:26"
+  },
+  "translated/en/其他概念/价格行为学_永远多头（Always_In_Long）交易方法.md": {
+    "id": "69a95cb049bd6463cf63ed76",
+    "url": "https://victorjia.hashnode.dev/price-action-always-in-long-trading-method",
+    "title": "Price Action: Always In Long Trading Method",
+    "published_at": "2026-03-05 17:36:32"
+  },
+  "translated/en/其他概念/价格行为学_理解市场周期.md": {
+    "id": "69a95cb66188af210d66c5f0",
+    "url": "https://victorjia.hashnode.dev/price-action-understanding-market-cycles",
+    "title": "Price Action: Understanding Market Cycles",
+    "published_at": "2026-03-05 17:36:38"
+  },
+  "translated/en/其他概念/价格行为学_目标与路径.md": {
+    "id": "69a95cbcb1cdfc4d6688a1ec",
+    "url": "https://victorjia.hashnode.dev/price-action-goals-and-path",
+    "title": "Price Action: Goals and Path",
+    "published_at": "2026-03-05 17:36:44"
+  },
+  "translated/en/其他概念/价格行为学_第一次回撤.md": {
+    "id": "69a95cc2b1cdfc4d6688a1ee",
+    "url": "https://victorjia.hashnode.dev/price-action-the-first-pullback-retracement",
+    "title": "Price Action: The First Pullback (Retracement)",
+    "published_at": "2026-03-05 17:36:50"
+  },
+  "translated/en/其他概念/价格行为学_第一次回调.md": {
+    "id": "69a95cc8b1cdfc4d6688a1f0",
+    "url": "https://victorjia.hashnode.dev/price-action-the-first-pullback",
+    "title": "Price Action: The First Pullback",
+    "published_at": "2026-03-05 17:36:56"
+  },
+  "translated/en/其他概念/价格行为学_试探性交易.md": {
+    "id": "69a95cce5155ac50107d7e71",
+    "url": "https://victorjia.hashnode.dev/price-action-probing-trades",
+    "title": "Price Action: Probing Trades",
+    "published_at": "2026-03-05 17:37:02"
+  },
+  "translated/en/其他概念/价格行为学_逐K复盘的目标.md": {
+    "id": "69a95cd4b1cdfc4d6688a1f2",
+    "url": "https://victorjia.hashnode.dev/price-action-the-goal-of-bar-by-bar-review",
+    "title": "Price Action: The Goal of Bar-by-Bar Review",
+    "published_at": "2026-03-05 17:37:08"
+  },
+  "translated/en/其他概念/价格行为学漫画（01）.md": {
+    "id": "69a95cdab1cdfc4d6688a1f4",
+    "url": "https://victorjia.hashnode.dev/price-action-comic-01",
+    "title": "Price Action Comic (01)",
+    "published_at": "2026-03-05 17:37:14"
+  },
+  "translated/en/交易策略/交易周转率_为何高频周转是交易成功的关键_.md": {
+    "id": "69a95d69066746ba579afb26",
+    "url": "https://victorjia.hashnode.dev/trading-turnover-rate-why-high-frequency-turnover-is-the-key-to-trading-success",
+    "title": "Trading Turnover Rate: Why High-Frequency Turnover Is the Key to Trading Success",
+    "published_at": "2026-03-05 17:39:37"
+  },
+  "translated/en/交易策略/价格与均线的距离_动能与价值的博弈.md": {
+    "id": "69a95d6ff8e6733ff7a5d0e7",
+    "url": "https://victorjia.hashnode.dev/the-distance-between-price-and-the-moving-average-the-battle-between-momentum-and-value",
+    "title": "The Distance Between Price and the Moving Average: The Battle Between Momentum and Value",
+    "published_at": "2026-03-05 17:39:43"
   }
 }
