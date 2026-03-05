@@ -5,198 +5,68 @@ import os
 import json
 import time
 import argparse
-import sys
 import anthropic
 
-BASE = "/Users/zhiqiangjia/Claude-Global/公众号国际化"
+BASE = "/Users/zhiqiangjia/dev/Claude-Global/公众号国际化"
 EN_DIR = f"{BASE}/translated/en"
 TRANSLATED_DIR = f"{BASE}/translated"
 TERMINOLOGY_FILE = f"{BASE}/terminology/terminology.json"
 
-# Language configurations
 LANG_CONFIG = {
-    "vi": {
-        "name": "Vietnamese",
-        "system_prompt_template": """You are a professional English-to-Vietnamese translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Vietnamese annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Vietnamese text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "id": {
-        "name": "Indonesian",
-        "system_prompt_template": """You are a professional English-to-Indonesian translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Indonesian annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Indonesian text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "es": {
-        "name": "Spanish",
-        "system_prompt_template": """You are a professional English-to-Spanish translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Spanish annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Spanish text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "pt": {
-        "name": "Portuguese",
-        "system_prompt_template": """You are a professional English-to-Portuguese translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Portuguese annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Portuguese text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "ja": {
-        "name": "Japanese",
-        "system_prompt_template": """You are a professional English-to-Japanese translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Japanese annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Japanese text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "ko": {
-        "name": "Korean",
-        "system_prompt_template": """You are a professional English-to-Korean translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Korean annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Korean text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "de": {
-        "name": "German",
-        "system_prompt_template": """You are a professional English-to-German translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + German annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated German text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "ar": {
-        "name": "Arabic",
-        "system_prompt_template": """You are a professional English-to-Arabic translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Arabic annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Arabic text, no explanations
-7. Keep the same paragraph structure as the original"""
-    },
-    "ru": {
-        "name": "Russian",
-        "system_prompt_template": """You are a professional English-to-Russian translator specializing in trading and Price Action content by Al Brooks.
-
-RULES:
-1. Translate faithfully - do not add, remove, or modify content
-2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
-3. Preserve all image links exactly as-is
-4. For Al Brooks specific concepts, keep the English original + Russian annotation in parentheses
-5. Use the following mandatory terminology mappings:
-
-{terminology_prompt}
-
-6. Output ONLY the translated Russian text, no explanations
-7. Keep the same paragraph structure as the original"""
-    }
+    "vi": {"name": "Vietnamese"},
+    "id": {"name": "Indonesian"},
+    "es": {"name": "Spanish"},
+    "pt": {"name": "Portuguese"},
+    "ja": {"name": "Japanese"},
+    "ko": {"name": "Korean"},
+    "de": {"name": "German"},
+    "ar": {"name": "Arabic"},
+    "ru": {"name": "Russian"},
 }
 
 
 def load_terminology(lang_code):
-    """Load and format terminology for specific language."""
+    if not os.path.exists(TERMINOLOGY_FILE):
+        return ""
     with open(TERMINOLOGY_FILE, "r") as f:
         terminology = json.load(f)
-
-    term_lines = []
-    for t in terminology["terms"]:
+    lines = []
+    for t in terminology.get("terms", []):
         en_term = t.get("en", "")
         lang_term = t.get(lang_code, "")
         if en_term and lang_term:
-            term_lines.append(f"- {en_term} → {lang_term}")
-
-    return "\n".join(term_lines)
+            lines.append(f"- {en_term} → {lang_term}")
+    return "\n".join(lines) if lines else "No specific terminology mappings available."
 
 
 def get_system_prompt(lang_code):
-    """Build system prompt for specific language."""
-    if lang_code not in LANG_CONFIG:
-        raise ValueError(f"Unsupported language: {lang_code}")
+    lang_name = LANG_CONFIG[lang_code]["name"]
+    terminology = load_terminology(lang_code)
+    return f"""You are a professional English-to-{lang_name} translator specializing in trading and Price Action content by Al Brooks.
 
-    terminology_prompt = load_terminology(lang_code)
-    template = LANG_CONFIG[lang_code]["system_prompt_template"]
-    return template.format(terminology_prompt=terminology_prompt)
+RULES:
+1. Translate faithfully - do not add, remove, or modify content
+2. Preserve ALL Markdown formatting (headers, bold, italic, lists, links, images)
+3. Preserve all image links exactly as-is
+4. For Al Brooks specific concepts, keep the English original + {lang_name} annotation in parentheses
+5. Use the following mandatory terminology mappings:
+
+{terminology}
+
+6. Output ONLY the translated {lang_name} text, no explanations
+7. Keep the same paragraph structure as the original"""
 
 
-def get_article_number(filename):
-    """Extract article number from filename (e.g., '041_some_title.md' -> 41)."""
-    try:
-        return int(filename.split("_")[0])
-    except (ValueError, IndexError):
-        return None
+def get_all_categories():
+    """Auto-detect all categories from EN directory."""
+    if not os.path.exists(EN_DIR):
+        return []
+    return sorted([d for d in os.listdir(EN_DIR)
+                   if os.path.isdir(f"{EN_DIR}/{d}")])
 
 
-def get_files_needing_translation(category, lang_code, start=41, end=None):
-    """Get list of files that need translation."""
+def get_files_needing_translation(category, lang_code):
+    """Get files that exist in EN but not yet translated."""
     en_path = f"{EN_DIR}/{category}"
     lang_dir = f"{TRANSLATED_DIR}/{lang_code}/{category}"
     os.makedirs(lang_dir, exist_ok=True)
@@ -204,35 +74,20 @@ def get_files_needing_translation(category, lang_code, start=41, end=None):
     if not os.path.exists(en_path):
         return []
 
-    en_files = set(os.listdir(en_path))
     needs = []
-
-    for f in sorted(en_files):
+    for f in sorted(os.listdir(en_path)):
         if not f.endswith(".md"):
             continue
-
-        article_num = get_article_number(f)
-        if article_num is None:
-            continue
-
-        # Filter by range
-        if article_num < start:
-            continue
-        if end is not None and article_num > end:
-            continue
-
         lang_file = f"{lang_dir}/{f}"
-        # Skip if already translated (and non-empty)
+        # Skip if already translated (non-empty, >200 bytes)
         if os.path.exists(lang_file) and os.path.getsize(lang_file) >= 200:
             continue
-
         needs.append(f)
 
     return needs
 
 
 def translate_file(category, filename, lang_code, system_prompt):
-    """Translate a single file."""
     en_file = f"{EN_DIR}/{category}/{filename}"
     lang_dir = f"{TRANSLATED_DIR}/{lang_code}/{category}"
     lang_file = f"{lang_dir}/{filename}"
@@ -241,32 +96,23 @@ def translate_file(category, filename, lang_code, system_prompt):
         content = f.read()
 
     if len(content.strip()) < 10:
-        # Very short file, just copy
         with open(lang_file, "w") as f:
             f.write(content)
         return True
 
     client = anthropic.Anthropic()
+    lang_name = LANG_CONFIG[lang_code]["name"]
 
     try:
-        lang_name = LANG_CONFIG[lang_code]["name"]
         response = client.messages.create(
             model="claude-sonnet-4-20250514",
             max_tokens=8192,
             system=system_prompt,
-            messages=[
-                {
-                    "role": "user",
-                    "content": f"Translate the following English article to {lang_name}:\n\n{content}"
-                }
-            ]
+            messages=[{"role": "user",
+                       "content": f"Translate the following English article to {lang_name}:\n\n{content}"}]
         )
-
-        translated = response.content[0].text
-
         with open(lang_file, "w") as f:
-            f.write(translated)
-
+            f.write(response.content[0].text)
         return True
     except Exception as e:
         print(f"  ERROR: {e}")
@@ -274,70 +120,73 @@ def translate_file(category, filename, lang_code, system_prompt):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Batch translate articles to multiple languages")
-    parser.add_argument("--lang", required=True, choices=list(LANG_CONFIG.keys()),
-                       help="Target language code (vi/id/es/pt/ja/ko/de/ar/ru)")
-    parser.add_argument("--start", type=int, default=41,
-                       help="Start article number (default: 41)")
-    parser.add_argument("--end", type=int, default=None,
-                       help="End article number (default: None, no limit)")
-    parser.add_argument("--batch-size", type=int, default=10,
-                       help="Batch size for processing (default: 10)")
-
+    parser = argparse.ArgumentParser(description="Batch translate articles")
+    parser.add_argument("--lang", required=True, choices=list(LANG_CONFIG.keys()))
+    parser.add_argument("--batch-size", type=int, default=10)
+    parser.add_argument("--max", type=int, default=None, help="Max articles to translate this run")
+    parser.add_argument("--category", default=None, help="Only translate specific category")
     args = parser.parse_args()
 
     lang_code = args.lang
     lang_name = LANG_CONFIG[lang_code]["name"]
-
-    categories = ["其他概念", "心理与错误"]
     system_prompt = get_system_prompt(lang_code)
+
+    categories = [args.category] if args.category else get_all_categories()
 
     total_translated = 0
     total_failed = 0
+    total_skipped = 0
+
+    print(f"=== Translating to {lang_name} ({lang_code}) ===")
+    print(f"Categories: {len(categories)}")
+    print()
 
     for cat in categories:
-        files = get_files_needing_translation(cat, lang_code, args.start, args.end)
+        files = get_files_needing_translation(cat, lang_code)
+        en_count = len([f for f in os.listdir(f"{EN_DIR}/{cat}") if f.endswith(".md")])
+        done_count = en_count - len(files)
 
         if not files:
-            print(f"Category: {cat} - No files to translate")
+            print(f"  {cat}: {en_count}/{en_count} ✅")
+            total_skipped += en_count
             continue
 
         print(f"\n{'='*60}")
-        print(f"Category: {cat} ({lang_name}) - {len(files)} files to translate")
-        print(f"Range: {args.start}-{args.end if args.end else 'end'}")
+        print(f"  {cat}: {done_count}/{en_count} done, {len(files)} remaining")
         print(f"{'='*60}")
 
         for i, f in enumerate(files):
-            article_num = get_article_number(f)
-            print(f"  [{i+1}/{len(files)}] [{article_num:03d}] {f}...", end=" ", flush=True)
+            if args.max and (total_translated + total_failed) >= args.max:
+                print(f"\n  Reached --max {args.max}, stopping.")
+                break
+
+            print(f"  [{i+1}/{len(files)}] {f[:50]}...", end=" ", flush=True)
 
             success = translate_file(cat, f, lang_code, system_prompt)
             if success:
-                print("OK")
+                print("✅")
                 total_translated += 1
             else:
-                print("FAILED")
+                print("❌")
                 total_failed += 1
 
-            # Rate limiting
             if (i + 1) % args.batch_size == 0:
-                print(f"  [Batch complete, sleeping...]")
+                print(f"  [Batch {(i+1)//args.batch_size} done, cooling...]")
                 time.sleep(2)
             else:
                 time.sleep(0.5)
 
-    print("\n\nDone! Results:")
-    print(f"  Total translated: {total_translated}")
-    print(f"  Total failed: {total_failed}")
+    print(f"\n\n{'='*60}")
+    print(f"Done! Translated: {total_translated} | Failed: {total_failed}")
+    print(f"{'='*60}")
 
+    # Summary per category
     for cat in categories:
         lang_path = f"{TRANSLATED_DIR}/{lang_code}/{cat}"
-        if os.path.exists(lang_path):
-            en_count = len([f for f in os.listdir(f"{EN_DIR}/{cat}") if f.endswith(".md")])
-            lang_count = len([f for f in os.listdir(lang_path) if f.endswith(".md")])
-            small = len([f for f in os.listdir(lang_path)
-                        if f.endswith(".md") and os.path.getsize(f"{lang_path}/{f}") < 200])
-            print(f"  {cat}: EN={en_count}, {lang_code.upper()}={lang_count}, small_files={small}")
+        en_count = len([f for f in os.listdir(f"{EN_DIR}/{cat}") if f.endswith(".md")])
+        lang_count = len([f for f in os.listdir(lang_path) if f.endswith(".md")]) if os.path.exists(lang_path) else 0
+        pct = f"{lang_count/en_count*100:.0f}%" if en_count else "0%"
+        print(f"  {cat}: {lang_count}/{en_count} ({pct})")
 
 
 if __name__ == "__main__":
